@@ -1,9 +1,9 @@
 const { Model, DataTypes } = require('sequelize');
 const sequelize = require('../config/connection');
 
-class User extends Model {}
+class petGallery extends Model {}
 
-User.init(
+petGallery.init(
   {
     id: {
         type: DataTypes.INTEGER,
@@ -12,18 +12,35 @@ User.init(
         autoIncrement: true,
       },
 
-    person_name: {
+    pet_name: {
         type: DataTypes.STRING,
         allowNull: false
     },
 
-    species_wanted: {
+    pet_age: {
+        type: DataTypes.INTEGER,
+        allowNull: false
+    },
+
+    species: {
         type: DataTypes.STRING,
+        allowNull: false
+    },
+
+    arrival_date: {
+        type: DataTypes.DATE,
+        allowNull: false
+    },
+
+    current_date: {
+        type: DataTypes.DATE,
         allowNull: false
     }
 
 
-    }
+
+  }
+
 );
 
-module.exports = User;
+module.exports = petGallery;
