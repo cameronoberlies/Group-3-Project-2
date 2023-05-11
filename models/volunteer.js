@@ -6,10 +6,11 @@ class Volunteer extends Model {}
 Volunteer.init({
 
     
-})
-
 }
 );
+
+
+
 
 module.exports = Volunteer;
 
