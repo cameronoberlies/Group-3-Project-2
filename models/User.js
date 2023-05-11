@@ -17,9 +17,22 @@ User.init(
         allowNull: false
     },
 
+    email: {
+
+    },
+
+    password: {
+
+    },
+
     species_wanted: {
         type: DataTypes.STRING,
-        allowNull: false
+        allowNull: true
+    },
+
+    breed: {
+        type: DataTypes.STRING,
+
     }
 
 
