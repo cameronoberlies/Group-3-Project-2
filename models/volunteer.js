@@ -4,7 +4,7 @@ const sequelize = require('../config/connection');
 class Volunteer extends Model {}
 
 Volunteer.init({
-
+    
     
 });
 
