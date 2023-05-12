@@ -1,5 +1,5 @@
 const User = require('./User');
-const Pet = require('./Pet');
+const Pet = require('./Pets');
 
 // Define a Driver as having many Cars, thus creating a foreign key in the `car` table
 User.hasMany(Pet, {
