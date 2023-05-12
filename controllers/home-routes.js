@@ -31,7 +31,7 @@ router.get('/pet/:id', async (req, res) => {
       const dbPetData = await Pet.findByPk(req.params.id, {
         include: [
           {
-            model: Pet,
+            model: Pets,
             attributes: [
               'id',
               'pet_name',
