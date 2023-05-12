@@ -16,7 +16,7 @@ User.init(
       primaryKey: true,
       autoIncrement: true,
     },
-    person_name: {
+    name: {
       type: DataTypes.STRING,
       allowNull: false
     },
@@ -42,6 +42,7 @@ User.init(
 
     breed: {
       type: DataTypes.STRING,
+      allowNull: true,
 
     },
   },
