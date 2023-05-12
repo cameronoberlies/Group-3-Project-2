@@ -3,7 +3,7 @@ const { Pets, User } = require('../models');
 
 router.get('/', async (req, res) => {
     try {
-        const dbPetData = await Pets.findAll({
+        const dbPetData = await User.findAll({
             include: [
                 {
                     model: Pets,
@@ -28,7 +28,7 @@ router.get('/', async (req, res) => {
 // GET one pet
 router.get('/pet/:id', async (req, res) => {
     try {
-      const dbPetData = await Pet.findByPk(req.params.id, {
+      const dbPetData = await User.findByPk(req.params.id, {
         include: [
           {
             model: Pets,
@@ -36,12 +36,20 @@ router.get('/pet/:id', async (req, res) => {
               'id',
               'pet_name',
               'pet_age',
-              'pet_breed',
-              'arrival_date'
+              'species',
+              'breed',
+              'gender',
+              'arrival_date',
+              'current_date'
             ],
           },
         ],
       });
+      
+      if (dbPetData === null) {
+       res.status(404).json({ error: 'User not found' });
+        return;
+    }
   
       const petData = dbPetData.get({ plain: true });
       res.render('pet-details', {
