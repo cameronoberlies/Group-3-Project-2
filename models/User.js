@@ -45,6 +45,13 @@ User.init(
       allowNull: true,
 
     },
+    user_id: {
+      type: DataTypes.INTEGER,
+      references: {
+        model: 'pets',
+        key: 'id'
+      },
+    },
   },
   {
     hooks: {
