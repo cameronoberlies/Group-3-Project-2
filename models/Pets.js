@@ -46,16 +46,15 @@ Pets.init(
     current_date: {
         type: DataTypes.DATE,
         allowNull: false
-    }
-    ,
-    sequelize,
+    },
+  },
+    {sequelize,
     timestamps: false,
     freezeTableName: true,
     underscored: true,
-    modelName: 'Pets',
-
-
-  }
+    modelName: 'pets',
+    }
+  
 
 );
 
