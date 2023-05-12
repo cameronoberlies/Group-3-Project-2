@@ -10,11 +10,14 @@ router.get('/', async (req, res) => {
                     attributes: ['id', 'pet_name','pet_age','species', 'breed', 'gender', 'arrival_date', 'current_date'],
                 },
             ],
+            
         });
 
-        const pets = dbPetData.map((pet) =>
-            pet.get({ plain: true })
+        const pets = dbPetData.map((pet) => 
+        pet.get({ plain: true })
         );
+            
+        
         res.render('homepage', {
             pets,
             loggedIn: req.session.loggedIn,
@@ -45,7 +48,7 @@ router.get('/pet/:id', async (req, res) => {
           },
         ],
       });
-      
+
       if (dbPetData === null) {
        res.status(404).json({ error: 'User not found' });
         return;
