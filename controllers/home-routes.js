@@ -7,7 +7,7 @@ router.get('/', async (req, res) => {
             include: [
                 {
                     model: Pets,
-                    attributes: ['id', 'pet_name','pet_age','pet_breed','arival_date'],
+                    attributes: ['id', 'pet_name','pet_age','species', 'breed', 'gender', 'arrival_date', 'current_date'],
                 },
             ],
         });
