@@ -1,0 +1,121 @@
+[
+    {
+    "pet_name": "Dede",
+    "pet_age": 0.6,
+    "species": "Dog",
+    "breed": "Siberian Husky & Shepherd Mix",
+    "gender": "female",
+    "arrival_date": "2023/25/01",
+    "current_date": "2023/11/05"
+},
+
+{
+    "pet_name": "Brisket",
+    "pet_age": 1,
+    "species": "Dog",
+    "breed": "Terrier Mix",
+    "gender": "male",
+    "arrival_date": "2023/05/04",
+    "current_date": "2023/11/05"
+},
+
+{
+    "pet_name": "Meatball",
+    "pet_age": 2,
+    "species": "Dog",
+    "breed": " Husky & Basset Hound Mix",
+    "gender": "male",
+    "arrival_date": "2022/15/11",
+    "current_date": "2023/11/05"
+},
+{
+    "pet_name": "Nelson",
+    "pet_age": 0.5,
+    "species": "Dog",
+    "breed": " Labrador Retriever Mix",
+    "gender": "male",
+    "arrival_date": "2023/23/02",
+    "current_date": "2023/11/05"
+},
+{
+    "pet_name": "Mateo",
+    "pet_age": 3,
+    "species": "Dog",
+    "breed": "German Shepherd Dog & Siberian Husky Mix ",
+    "gender": "male",
+    "arrival_date": "2022/12/20",
+    "current_date": "2023/11/05"
+},
+{
+    "pet_name": "Chatfield",
+    "pet_age": 4,
+    "species": "Dog",
+    "breed": " Pit Bull Terrier Mix",
+    "gender": "male",
+    "arrival_date": "2022/12/09",
+    "current_date": "2023/11/05"
+},
+{
+    "pet_name": "Valentine",
+    "pet_age": 2,
+    "species": "Dog",
+    "breed": "Yorkshire Terrier",
+    "gender": "female",
+    "arrival_date": "2023/13/02",
+    "current_date": "2023/11/05"
+},
+{
+    "pet_name": 
+    "pet_age":
+    "species": "Dog",
+    "breed":
+    "gender":
+    "arrival_date":
+    "current_date": "2023/11/05"
+},
+{
+    "pet_name": 
+    "pet_age":
+    "species": "Dog",
+    "breed":
+    "gender":
+    "arrival_date":
+    "current_date": "2023/11/05"
+},
+{
+    "pet_name": 
+    "pet_age":
+    "species": "Dog",
+    "breed":
+    "gender":
+    "arrival_date":
+    "current_date": "2023/11/05"
+},
+{
+    "pet_name": 
+    "pet_age":
+    "species": "Dog",
+    "breed":
+    "gender":
+    "arrival_date":
+    "current_date": "2023/11/05"
+},
+{
+    "pet_name": 
+    "pet_age":
+    "species": "Dog",
+    "breed":
+    "gender":
+    "arrival_date":
+    "current_date": "2023/11/05"
+},
+{
+    "pet_name": 
+    "pet_age":
+    "species": "Dog",
+    "breed":
+    "gender":
+    "arrival_date":
+    "current_date": "2023/11/05"
+},
+];

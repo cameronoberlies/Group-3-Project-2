@@ -18,7 +18,7 @@ petGallery.init(
     },
 
     pet_age: {
-        type: DataTypes.INTEGER,
+        type: DataTypes.DECIMAL(10,2),
         allowNull: false
     },
 
@@ -26,6 +26,17 @@ petGallery.init(
         type: DataTypes.STRING,
         allowNull: false
     },
+
+    
+      breed: {
+        type: DataTypes.STRING,
+        allowNull: true
+      },
+      
+      gender: {
+        type:DataTypes.STRING,
+        allowNull: false
+      },
 
     arrival_date: {
         type: DataTypes.DATE,
