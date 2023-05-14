@@ -29,6 +29,7 @@
     "handlebars": "^4.7.7",
     "jshint": "^2.13.6",
     "mysql2": "^3.3.0",
+    "normalize.css": "^8.0.1",
     "sequelize": "^6.31.1"
   }
 }
