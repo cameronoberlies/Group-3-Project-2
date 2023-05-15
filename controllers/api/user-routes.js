@@ -1,6 +1,40 @@
 const router = require('express').Router();
 const { User } = require('../../models');
 
+// GET /api/users
+router.get('/', (req, res) => {
+    // Access our user model and run .findAll() method
+    User.findAll({
+        attributes: { exclude: ['password'] }
+    })
+        .then(users => res.json(users))
+        .catch(err => {
+            console.log(err);
+            res.status(500).json(err);
+        });
+});
+
+// GET /api/users/1
+router.get('/:id', (req, res) => {
+    User.findOne({
+        attributes: { exclude: ['password'] },
+        where: {
+            id: req.params.id
+        }
+    })
+        .then(users => {
+            if (!users) {
+                res.status(404).json({ message: 'There is No user with this id' });
+                return;
+            }
+            res.json(users);
+        })
+        .catch(err => {
+            console.log(err);
+            res.status(500).json(err);
+        });
+});
+
 // CREATE new user
 router.post('/', async (req, res) => {
   try {
