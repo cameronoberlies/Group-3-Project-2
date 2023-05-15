@@ -1,0 +1,150 @@
+[
+    
+    {
+    "pet_name": "Dede",
+    "pet_age": 0.6,
+    "species": "Dog",
+    "breed": "Siberian Husky & Shepherd Mix",
+    "gender": "female",
+    "arrival_date": "2023/01/25",
+    "current_date": "2023/05/11"
+},
+
+{
+    "pet_name": "Brisket",
+    "pet_age": 1,
+    "species": "Dog",
+    "breed": "Terrier Mix",
+    "gender": "male",
+    "arrival_date": "2023/05/04",
+    "current_date": "2023/05/11"
+},
+
+{
+    "pet_name": "Meatball",
+    "pet_age": 2,
+    "species": "Dog",
+    "breed": " Husky & Basset Hound Mix",
+    "gender": "male",
+    "arrival_date": "2022/11/15",
+    "current_date": "2023/05/11"
+},
+{
+    "pet_name": "Nelson",
+    "pet_age": 0.5,
+    "species": "Dog",
+    "breed": " Labrador Retriever Mix",
+    "gender": "male",
+    "arrival_date": "2023/02/23",
+    "current_date": "2023/05/11"
+},
+{
+    "pet_name": "Mateo",
+    "pet_age": 3,
+    "species": "Dog",
+    "breed": "German Shepherd Dog & Siberian Husky Mix ",
+    "gender": "male",
+    "arrival_date": "2022/12/20",
+    "current_date": "2023/05/11"
+},
+{
+    "pet_name": "Chatfield",
+    "pet_age": 4,
+    "species": "Dog",
+    "breed": " Pit Bull Terrier Mix",
+    "gender": "male",
+    "arrival_date": "2022/12/09",
+    "current_date": "2023/05/11"
+},
+{
+    "pet_name": "Valentine",
+    "pet_age": 2,
+    "species": "Dog",
+    "breed": "Yorkshire Terrier",
+    "gender": "female",
+    "arrival_date": "2023/02/13",
+    "current_date": "2023/05/11"
+},
+{
+    "pet_name": "Juniper",
+    "pet_age": 3,
+    "species": "Dog",
+    "breed": "German Shepherd Dog & American Staffordshire Terrier Mix",
+    "gender": "female",
+    "arrival_date": "2023/01/02",
+    "current_date": "2023/05/11"
+},
+{
+    "pet_name": "Stoney",
+    "pet_age": 3,
+    "species": "Dog",
+    "breed": "Shepherd & Cattle Dog Mix",
+    "gender": "male",
+    "arrival_date": "2022/09/12",
+    "current_date": "2023/05/11"
+},
+{
+    "pet_name": "Reeses Pieces",
+    "pet_age": 8,
+    "species": "Dog",
+    "breed": "Chihuahua & Dachshund Mix",
+    "gender": "female",
+    "arrival_date": "2022/08/08",
+    "current_date": "2023/05/11"
+},
+{
+    "pet_name": "Gregory",
+    "pet_age": 3,
+    "species": "Dog",
+    "breed": "Siberian Husky",
+    "gender": "male",
+    "arrival_date": "2023/03/16",
+    "current_date": "2023/05/11"
+},
+{
+    "pet_name": "Hawk",
+    "pet_age": 5,
+    "species": "Dog",
+    "breed": "Pointer Mix",
+    "gender": "male",
+    "arrival_date": "2023/04/24",
+    "current_date": "2023/05/11"
+},
+{
+    "pet_name": "Roscoe",
+    "pet_age": 6,
+    "species": "Dog",
+    "breed": "Boxer Mix",
+    "gender": "male",
+    "arrival_date": "2023/01/22",
+    "current_date": "2023/05/11"
+},
+{
+    "pet_name": "Jackie",
+    "pet_age": 0.3,
+    "species": "Dog",
+    "breed": "Shepherd & English Pointer Mix",
+    "gender": "female",
+    "arrival_date": "2023/03/03",
+    "current_date": "2023/05/11"
+},
+{
+    "pet_name": "Fenris",
+    "pet_age": 2,
+    "species": "Dog",
+    "breed": "Chesapeake Bay Retriever Mix",
+    "gender": "female",
+    "arrival_date": "2023/02/25",
+    "current_date": "2023/05/11"
+},
+{
+    "pet_name": "Coldfoot",
+    "pet_age": 0.45,
+    "species": "Dog",
+    "breed": "Golden Retriever & Standard Poodle Mix",
+    "gender": "female",
+    "arrival_date": "2023/03/16",
+    "current_date": "2023/05/11"
+}
+
+]
