@@ -1,0 +1,17 @@
+  /*  style added by abel */
+
+
+  .login-card{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap:10px;
+  }
+
+  .pets{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
