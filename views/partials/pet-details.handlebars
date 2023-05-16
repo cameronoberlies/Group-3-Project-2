@@ -1,6 +1,6 @@
 <section class="container">
     <h3 class="pet-species-display">Adoptable Pets:</h3>
-    {{#each petGallery as |pet|}}
+    {{#if petData}}
     {{photo_id}}
     {{pet_name}}
     {{pet_age}}
@@ -8,5 +8,6 @@
     {{breed}}
     {{gender}}
     {{arrival_date}}
+    {{/if}}
     
 </section>
