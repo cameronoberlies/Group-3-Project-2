@@ -1,10 +1,3 @@
-<<<<<<< HEAD
-const express = require('express');
-const routes = require('./controllers/api');
-// import sequelize connection
-const sequelize = require('./config/connection');
-
-=======
 const path = require('path');
 const express = require('express');
 // Import express-session
@@ -14,22 +7,10 @@ const exphbs = require('express-handlebars');
 const routes = require('./controllers');
 const sequelize = require('./config/connection');
 const helpers = require('./utils/helpers');
->>>>>>> f51b3a0c82e10287feeb6473904771dcfbc84158
 
 const app = express();
 const PORT = process.env.PORT || 3001;
 
-<<<<<<< HEAD
-app.use(express.json());
-app.use(express.urlencoded({ extended: true }));
-
-app.use(routes);
-
-// sync sequelize models to the database, then turn on the server
-sequelize.sync({ force: false }).then(() => {
-  app.listen(PORT, () => 
-  console.log(`App listening on port ${PORT}!`));
-=======
 // Set up sessions
 const sess = {
   secret: 'Super secret secret',
@@ -53,5 +34,4 @@ app.use(require("./controllers/"));
 
 sequelize.sync({ force: false }).then(() => {
   app.listen(PORT, () => console.log('Now listening'));
->>>>>>> f51b3a0c82e10287feeb6473904771dcfbc84158
 });
