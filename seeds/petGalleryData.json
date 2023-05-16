@@ -41,8 +41,12 @@
     "gender": "male",
     "arrival_date": "2023/02/23",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     "current_date": "2023/05/11",
     "photo_url": "https://images.unsplash.com/photo-1611003229186-80e40cd54966?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTgwfERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60"
+=======
+    "current_date": "2023/05/11"
+>>>>>>> Stashed changes
 =======
     "current_date": "2023/05/11"
 >>>>>>> Stashed changes
@@ -51,7 +55,11 @@
 {
     "pet_name": "Mateo",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     "pet_age": 0.6,
+=======
+    "pet_age": "3 years",
+>>>>>>> Stashed changes
 =======
     "pet_age": "3 years",
 >>>>>>> Stashed changes
