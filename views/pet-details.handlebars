@@ -1,14 +1,16 @@
 <section class="container">
-    <h3 class="pet-species-display">Adoptable Pets:</h3>
-    <p>
-    {{photo_url}}
-    {{pet_name}}
-    {{pet_age}}
-    {{species}}
-    {{breed}}
-    {{gender}}
-    {{arrival_date}}
+    <h3 class="pet-species-display">{{pet_name}}</h3>
     
-    </p>
+    <div>
+    <a href="/pet/{{pet.id}}"><img src="{{photo_url}}" /></a>
+    <li>{{pet_age}}</li>
+    <li>{{species}}</li>
+    <li>{{breed}}</li>
+    <li>{{gender}}</li>
+    <li>{{arrival_date}}</li>
+        
+    </div>
+    
+    
     
 </section>

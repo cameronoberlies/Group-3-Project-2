@@ -57,7 +57,7 @@ router.get('/pet/:id', async (req, res) => {
   
       const petData = dbPetData.get({ plain: true });
       res.render('pet-details', {
-        petData,
+        ...petData,
       });
     } catch (err) {
       console.log(err);
