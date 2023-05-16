@@ -18,17 +18,19 @@
     "breed": "Terrier Mix",
     "gender": "male",
     "arrival_date": "2023/05/04",
-    "current_date": "2023/05/11"
+    "current_date": "2023/05/11",
+    "photo_url": "https://images.unsplash.com/photo-1543490258-4131d44881d7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2226&q=80"
 },
 
 {
     "pet_name": "Meatball",
     "pet_age": 2,
     "species": "Dog",
-    "breed": " Husky & Basset Hound Mix",
+    "breed": " Husky",
     "gender": "male",
     "arrival_date": "2022/11/15",
-    "current_date": "2023/05/11"
+    "current_date": "2023/05/11",
+    "photo_url": "https://images.unsplash.com/photo-1629246999700-1e7ad7a1ba03?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8aHVza3l8ZW58MHx8MHx8&auto=format&fit=crop&w=700&q=60"
 },
 {
     "pet_name": "Nelson",
@@ -37,7 +39,8 @@
     "breed": " Labrador Retriever Mix",
     "gender": "male",
     "arrival_date": "2023/02/23",
-    "current_date": "2023/05/11"
+    "current_date": "2023/05/11",
+
 },
 {
     "pet_name": "Mateo",
