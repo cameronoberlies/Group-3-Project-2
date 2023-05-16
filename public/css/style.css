@@ -1,6 +1,6 @@
 :root {
-    --primary: #3d5852;
-    --secondary: #86938f;
+    --primary: white;
+    --secondary: #62CEF9;
     --tertiary: #5e877f;
     --quatrinary: #6c6b67;
     --light: #e3e4e3;
@@ -31,14 +31,14 @@
   header {
     padding: 40px;
     text-align: center;
-    background: var(--primary);
-    color: var(--light);
+   
   }
   
   main {
     display: flex;
     flex-wrap: wrap;
     flex-grow: 1;
+    
   }
   
   aside {
@@ -162,4 +162,8 @@
     align-content: flex-start;
     align-items: center;
   }
+  .pet-species-display {
+    color: black;
+  }
+
   
