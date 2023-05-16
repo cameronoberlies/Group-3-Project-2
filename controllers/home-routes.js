@@ -65,6 +65,17 @@ router.get('/pet/:id', async (req, res) => {
     }
   });
 
+  // signup route 
+
+router.get('/signup', (req, res) => {
+  if (req.session.loggedIn) {
+    res.redirect('/');
+    return;
+  }
+  // renders the signup handlebars
+  res.render('signup'); 
+});
+
 // Login route
 router.get('/login', (req, res) => {
   // If the user is already logged in, redirect to the homepage
