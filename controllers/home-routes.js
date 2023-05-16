@@ -3,15 +3,15 @@ const { Pets, User } = require('../models');
 
 router.get('/', async (req, res) => {
     try {
-        const dbPetData = await User.findAll({
-            include: [
-                {
-                    model: Pets,
-                    attributes: ['id', 'pet_name','pet_age','species', 'breed', 'gender', 'arrival_date', 'current_date'],
-                },
-            ],
+        const dbPetData = await Pets.findAll();
+            // include: [
+            //     {
+            //         model: Pets,
+            //         attributes: ['id', 'pet_name','pet_age','species', 'breed', 'gender', 'arrival_date', 'current_date'],
+            //     },
+            // ],
             
-        });
+        
 
         const pets = dbPetData.map((pet) => 
         pet.get({ plain: true })
@@ -31,26 +31,27 @@ router.get('/', async (req, res) => {
 // GET one pet
 router.get('/pet/:id', async (req, res) => {
     try {
-      const dbPetData = await User.findByPk(req.params.id, {
-        include: [
-          {
-            model: Pets,
-            attributes: [
-              'id',
-              'pet_name',
-              'pet_age',
-              'species',
-              'breed',
-              'gender',
-              'arrival_date',
-              'current_date'
-            ],
-          },
-        ],
-      });
+      const dbPetData = await Pets.findByPk(req.params.id);
+        // include: [
+        //   {
+        //     model: Pets,
+        //     attributes: [
+        //       'id',
+        //       'pet_name',
+        //       'pet_age',
+        //       'species',
+        //       'breed',
+        //       'gender',
+        //       'arrival_date',
+        //       'current_date',
+        //       'photo_url'
+        //     ],
+        //   },
+        // ],
+      
 
       if (dbPetData === null) {
-       res.status(404).json({ error: 'User not found' });
+       res.status(404).json({ error: 'Pet not found' });
         return;
     }
   
