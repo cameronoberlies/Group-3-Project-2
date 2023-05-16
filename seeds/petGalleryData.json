@@ -2,7 +2,7 @@
     
     {
     "pet_name": "Dede",
-    "pet_age": 0.6,
+    "pet_age": "7 months",
     "species": "Dog",
     "breed": "Siberian Husky & Shepherd Mix",
     "gender": "female",
@@ -13,7 +13,7 @@
 
 {
     "pet_name": "Brisket",
-    "pet_age": 1,
+    "pet_age": "1 year",
     "species": "Dog",
     "breed": "Terrier Mix",
     "gender": "male",
@@ -24,7 +24,7 @@
 
 {
     "pet_name": "Meatball",
-    "pet_age": 2,
+    "pet_age": "2 years",
     "species": "Dog",
     "breed": " Husky",
     "gender": "male",
@@ -35,18 +35,26 @@
 },
 {
     "pet_name": "Nelson",
-    "pet_age": 0.5,
+    "pet_age": "6 months",
     "species": "Dog",
     "breed": " Labrador Retriever Mix",
     "gender": "male",
     "arrival_date": "2023/02/23",
+<<<<<<< Updated upstream
     "current_date": "2023/05/11",
     "photo_url": "https://images.unsplash.com/photo-1611003229186-80e40cd54966?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTgwfERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60"
+=======
+    "current_date": "2023/05/11"
+>>>>>>> Stashed changes
 
 },
 {
     "pet_name": "Mateo",
+<<<<<<< Updated upstream
     "pet_age": 0.6,
+=======
+    "pet_age": "3 years",
+>>>>>>> Stashed changes
     "species": "Dog",
     "breed": "German Shepherd Dog & Siberian Husky Mix ",
     "gender": "male",
@@ -56,7 +64,7 @@
 },
 {
     "pet_name": "Chatfield",
-    "pet_age": 4,
+    "pet_age": "4 years",
     "species": "Dog",
     "breed": " Pit Bull",
     "gender": "male",
@@ -66,7 +74,7 @@
 },
 {
     "pet_name": "Valentine",
-    "pet_age": 2,
+    "pet_age": "2 years",
     "species": "Dog",
     "breed": "Yorkshire Terrier",
     "gender": "female",
@@ -76,7 +84,7 @@
 },
 {
     "pet_name": "Juniper",
-    "pet_age": 3,
+    "pet_age": "3 years",
     "species": "Dog",
     "breed": "German Shepherd Dog & American Staffordshire Terrier Mix",
     "gender": "female",
@@ -86,7 +94,7 @@
 },
 {
     "pet_name": "Stoney",
-    "pet_age": 3,
+    "pet_age": "3 years",
     "species": "Dog",
     "breed": "Shepherd & Cattle Dog Mix",
     "gender": "male",
@@ -96,7 +104,7 @@
 },
 {
     "pet_name": "Reeses Pieces",
-    "pet_age": 8,
+    "pet_age": "8 years",
     "species": "Dog",
     "breed": "Chihuahua",
     "gender": "female",
@@ -107,7 +115,7 @@
 },
 {
     "pet_name": "Gregory",
-    "pet_age": 3,
+    "pet_age": "3 years",
     "species": "Dog",
     "breed": "Siberian Husky",
     "gender": "male",
@@ -118,7 +126,7 @@
 },
 {
     "pet_name": "Hawk",
-    "pet_age": 5,
+    "pet_age": "5 years",
     "species": "Dog",
     "breed": "Pointer Mix",
     "gender": "male",
@@ -129,7 +137,7 @@
 },
 {
     "pet_name": "Roscoe",
-    "pet_age": 6,
+    "pet_age": "6 years",
     "species": "Dog",
     "breed": "Boxer Mix",
     "gender": "male",
@@ -140,7 +148,7 @@
 },
 {
     "pet_name": "Jackie",
-    "pet_age": 0.3,
+    "pet_age": "4 months",
     "species": "Dog",
     "breed": "Shepherd Sheep Dog Mix",
     "gender": "female",
@@ -150,7 +158,7 @@
 },
 {
     "pet_name": "Fenris",
-    "pet_age": 2,
+    "pet_age": "2 years",
     "species": "Dog",
     "breed": "pug",
     "gender": "female",
@@ -160,7 +168,7 @@
 },
 {
     "pet_name": "Coldfoot",
-    "pet_age": 0.45,
+    "pet_age": "3 months",
     "species": "Dog",
     "breed": "Standard Poodle Mix",
     "gender": "female",
