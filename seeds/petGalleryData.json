@@ -99,7 +99,7 @@
     "pet_name": "Reeses Pieces",
     "pet_age": "8 years",
     "species": "Dog",
-    "breed": "Chihuahua",
+    "breed": "Chihuahua Mix",
     "gender": "female",
     "arrival_date": "2022/08/08",
     "current_date": "2023/05/11",
@@ -168,6 +168,65 @@
     "arrival_date": "2023/03/16",
     "current_date": "2023/05/11",
     "photo_url": "https://images.unsplash.com/photo-1555325084-b068599743c9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTI2fERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60"
+},
+{
+    "pet_name": "Lucy",
+    "pet_age": 1,
+    "species": "Dog",
+    "breed": "Cocker Spaniel Mix",
+    "gender": "female",
+    "arrival_date": "2023/03/16",
+    "current_date": "2023/05/11",
+    "photo_url": "https://images.unsplash.com/photo-1588943211346-0908a1fb0b01?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTM5fERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60"
+},
+{
+    "pet_name": "Lucky",
+    "pet_age": 0.45,
+    "species": "Dog",
+    "breed": " Husky Mix",
+    "gender": "female",
+    "arrival_date": "2023/03/16",
+    "current_date": "2023/05/11",
+    "photo_url": "https://images.unsplash.com/photo-1526660690293-bcd32dc3b123?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTc3fERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60"
+},
+{
+    "pet_name": "Bucky",
+    "pet_age": 0.45,
+    "species": "Dog",
+    "breed": " Labrador Retriever Mix",
+    "gender": "female",
+    "arrival_date": "2023/08/16",
+    "current_date": "2023/05/11",
+    "photo_url": "https://images.unsplash.com/25/puppy-love.jpg?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTc2fERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60"
+},
+{
+    "pet_name": "Buck",
+    "pet_age": 0.45,
+    "species": "Dog",
+    "breed": " Bull Dog",
+    "gender": "female",
+    "arrival_date": "2023/08/16",
+    "current_date": "2023/05/11",
+    "photo_url": "https://images.unsplash.com/25/puppy-love.jpg?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTc2fERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60"
+},{
+    "pet_name": "Bucky",
+    "pet_age": 0.45,
+    "species": "Dog",
+    "breed": " Labrador Retriever Mix",
+    "gender": "female",
+    "arrival_date": "2023/08/16",
+    "current_date": "2023/05/11",
+    "photo_url": "https://images.unsplash.com/photo-1549775924-433bdc7ea7a9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTc4fERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60"
+},
+{
+    "pet_name": "Bucky",
+    "pet_age": 0.45,
+    "species": "Dog",
+    "breed": " Labrador Retriever Mix",
+    "gender": "female",
+    "arrival_date": "2023/08/16",
+    "current_date": "2023/05/11",
+    "photo_url": "https://images.unsplash.com/25/puppy-love.jpg?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTc2fERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60"
 }
 
 ]
