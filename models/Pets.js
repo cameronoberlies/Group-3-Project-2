@@ -18,7 +18,7 @@ Pets.init(
     },
 
     pet_age: {
-        type: DataTypes.DECIMAL(10,2),
+        type: DataTypes.STRING,
         allowNull: false
     },
 
