@@ -142,6 +142,7 @@
     font-size: 1.4rem;
     text-align: center;
     font-weight: bold;
+   
   }
   
   .gallery-name {
@@ -170,5 +171,9 @@
   display: flex;
   justify-content: center;
   text-align: center;
+}
+.card-img-top {
+  height: 350px;
+  width: 350px;
 }
   
