@@ -142,6 +142,8 @@
     font-size: 1.4rem;
     text-align: center;
     font-weight: bold;
+    height: fit-content;
+   
   }
   
   .gallery-name {
@@ -165,10 +167,23 @@
   .pet-species-display {
     color: black;
     font-size: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
   }
 #signup-title {
   display: flex;
   justify-content: center;
   text-align: center;
+}
+.card-img-top {
+  height: 350px;
+  width: 350px;
+}
+
+.card-img-details {
+  height: 350px;
+  width: 350px;
+
 }
   
