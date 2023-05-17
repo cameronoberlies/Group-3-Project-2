@@ -3,378 +3,511 @@
     {
     "pet_name": "Dede",
     "pet_age": "7 months",
-    "life_cycle": "Puppy",
     "species": "Dog",
     "breed": "Siberian Husky & Shepherd Mix",
     "gender": "female",
     "arrival_date": "2023/01/25",
     "current_date": "2023/05/11",
+<<<<<<< Updated upstream
     "description": "Meet Dede, a charming and energetic 7-month-old Husky with a playful spirit that's simply infectious. With striking piercing eyes and a beautifully marked coat, Dede captivates everyone she meets. This curious and intelligent pup loves exploring the world around her, whether it's chasing butterflies in the park or sniffing out new scents during her walks. Dede's loving nature shines through as she eagerly seeks affection and showers her family with boundless love and endless cuddles. With her sweet disposition and boundless energy, Dede brings joy and adventure to every moment, making her the perfect companion for an active and loving home.",
     "photo_url": "https://images.pexels.com/photos/2853422/pexels-photo-2853422.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+=======
+    "photo_url": "https://images.pexels.com/photos/2853422/pexels-photo-2853422.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "description": "Siberian Husky female mix with a sweet young care free attitude, loving and friendly with others"
+>>>>>>> Stashed changes
 },
 
 {
     "pet_name": "Brisket",
     "pet_age": "1 year",
-    "life_cycle": "Young",
     "species": "Dog",
     "breed": "Terrier Mix",
     "gender": "male",
     "arrival_date": "2023/05/04",
     "current_date": "2023/05/11",
+<<<<<<< Updated upstream
     "description":"Introducing Brisket, an adorable and energetic 1-year-old terrier mix with a heart full of love and a zest for life. With a mixture of terrier breeds, Brisket boasts a unique and captivating appearance, complete with expressive eyes and a wagging tail that never seems to stop. This spunky and agile pup is always on the go, eager to explore the world and embark on exciting adventures. Whether it's chasing squirrels in the backyard or playing fetch at the park, Brisket's boundless enthusiasm is contagious. Despite being a ball of energy, Brisket also possesses a gentle and affectionate side, often snuggling up close to their loved ones and showering them with kisses. With their charming personality and unwavering loyalty, Brisket is the perfect companion for anyone seeking a bundle of joy and endless companionship.",
     "photo_url": "https://images.unsplash.com/photo-1543490258-4131d44881d7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2226&q=80"
+=======
+    "photo_url": "https://images.unsplash.com/photo-1543490258-4131d44881d7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2226&q=80",
+    "description": "Siberian Husky female mix with a sweet young care free attitude, loving and friendly with others"
+>>>>>>> Stashed changes
 },
 
 {
     "pet_name": "Meatball",
     "pet_age": "2 years",
-    "life_cycle": "Young",
     "species": "Dog",
     "breed": " Husky",
     "gender": "male",
     "arrival_date": "2022/11/15",
     "current_date": "2023/05/11",
+<<<<<<< Updated upstream
     "description":"Meet Meatball, a charismatic and lively 2-year-old Husky with a personality as big as their name. With a striking coat of soft fur and mesmerizing ice-blue eyes, Meatball is a head-turner wherever they go. This energetic and athletic pup is always up for an adventure, whether it's exploring new trails or engaging in lively games of fetch. With their playful nature and boundless enthusiasm, Meatball is the life of the party and brings a contagious sense of joy to everyone they encounter. Despite their spirited nature, Meatball also has a gentle and affectionate side, melting hearts with their warm cuddles and loving gestures. With a combination of intelligence, charm, and loyalty, Meatball is not only a stunning companion but also a best friend who will bring endless love and laughter to their forever home.",
     "photo_url": "https://images.unsplash.com/photo-1629246999700-1e7ad7a1ba03?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8aHVza3l8ZW58MHx8MHx8&auto=format&fit=crop&w=700&q=60"
+=======
+    "photo_url": "https://images.unsplash.com/photo-1629246999700-1e7ad7a1ba03?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8aHVza3l8ZW58MHx8MHx8&auto=format&fit=crop&w=700&q=60",
+    "description": "Siberian Husky female mix with a sweet young care free attitude, loving and friendly with others"
+>>>>>>> Stashed changes
     
 },
 {
     "pet_name": "Nelson",
     "pet_age": "6 months",
-    "life_cycle": "Puppy",
     "species": "Dog",
     "breed": "Golden Retriever Mix",
     "gender": "male",
     "arrival_date": "2023/02/23",
     "current_date": "2023/05/11",
+<<<<<<< Updated upstream
     "description":"Say hello to Nelson, an adorable 6-month-old Golden Retriever mix with a heart of gold. With a luscious coat of golden fur that shines under the sun and a wagging tail that never stops, Nelson exudes warmth and happiness. This playful and friendly pup is filled with boundless energy, always ready for a game of fetch or a romp in the park. Nelson's curious nature leads them to discover new sights and smells, bringing a sense of excitement to every outing. Beyond their playful spirit, Nelson also possesses a gentle and affectionate side, eagerly seeking cuddles and showering their loved ones with unwavering loyalty. With their endearing charm and joyful demeanor, Nelson is the perfect addition to any loving family, bringing happiness and endless companionship to their forever home.",
     "photo_url": "https://images.unsplash.com/photo-1611003229186-80e40cd54966?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTgwfERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60"
+=======
+    "photo_url": "https://images.unsplash.com/photo-1611003229186-80e40cd54966?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTgwfERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60",
+    "description": "Siberian Husky female mix with a sweet young care free attitude, loving and friendly with others"
+>>>>>>> Stashed changes
 
 },
 {
     "pet_name": "Mateo",
     "pet_age": "3 years",
-    "life_cycle": "Adult",
     "species": "Dog",
     "breed": "German Shepherd Mix ",
     "gender": "male",
     "arrival_date": "2022/12/20",
     "current_date": "2023/05/11",
+<<<<<<< Updated upstream
     "description":"Meet Mateo, a handsome and intelligent 3-year-old German Shepherd mix with a heart full of loyalty and a spirit of adventure. With a sleek and muscular build, Mateo commands attention wherever he goes. His expressive brown eyes hold a depth of wisdom and curiosity, reflecting his sharp intellect. Mateo's athletic prowess is matched only by his love for exploration and outdoor activities. Whether it's going on long hikes or playing a challenging game of fetch, Mateo's boundless energy and enthusiasm shine through. Despite his confident and independent nature, Mateo is a gentle and affectionate companion, always ready to shower his loved ones with unconditional love and protection. With his remarkable intelligence, unwavering loyalty, and striking presence, Mateo is the perfect companion for those seeking a devoted and adventurous partner in life.",
     "photo_url": "https://images.unsplash.com/photo-1677758171423-ac943ebb1339?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8Mjd8RG9FUk5MQkhqdmd8fGVufDB8fHx8&auto=format&fit=crop&w=700&q=60"
+=======
+    "photo_url": "https://images.unsplash.com/photo-1677758171423-ac943ebb1339?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8Mjd8RG9FUk5MQkhqdmd8fGVufDB8fHx8&auto=format&fit=crop&w=700&q=60",
+    "description": "Siberian Husky female mix with a sweet young care free attitude, loving and friendly with others"
+>>>>>>> Stashed changes
 },
 {
     "pet_name": "Chatfield",
     "pet_age": "4 years",
-    "life_cycle": "Adult",
     "species": "Dog",
     "breed": " Pit Bull",
     "gender": "male",
     "arrival_date": "2022/12/09",
     "current_date": "2023/05/11",
+<<<<<<< Updated upstream
     "description":"Introducing Chatfield, a charismatic and loving 4-year-old Pitbull with a heart as big as his muscular frame. With a sleek coat and a powerful stance, Chatfield commands attention with his striking presence. Beneath his strong exterior, however, lies a gentle and affectionate nature. Chatfield adores human company and is known for his endless tail wags and sloppy kisses that melt hearts instantly. This loyal and devoted companion thrives on forming deep connections with his loved ones, making him an unwavering source of support and comfort. Whether it's cuddling on the couch or joining in on outdoor adventures, Chatfield's unwavering loyalty and playful spirit make him the perfect furry best friend for a loving and dedicated home.",
     "photo_url": "https://images.unsplash.com/photo-1668485095742-38885734bae4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8cGl0JTIwYnVsbHN8ZW58MHx8MHx8&auto=format&fit=crop&w=700&q=60"
+=======
+    "photo_url": "https://images.unsplash.com/photo-1668485095742-38885734bae4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8cGl0JTIwYnVsbHN8ZW58MHx8MHx8&auto=format&fit=crop&w=700&q=60",
+    "description": "Siberian Husky female mix with a sweet young care free attitude, loving and friendly with others"
+>>>>>>> Stashed changes
 },
 {
     "pet_name": "Valentine",
     "pet_age": "2 years",
-    "life_cycle": "Young",
     "species": "Dog",
     "breed": "Yorkshire Terrier",
     "gender": "female",
     "arrival_date": "2023/02/13",
     "current_date": "2023/05/11",
+<<<<<<< Updated upstream
     "description":"Meet Valentine, a delightful 2-year-old Yorkshire Terrier with a heart full of love and a personality that sparkles. With a silky coat of flowing fur and expressive dark eyes, Valentine captures attention wherever they go. Despite their small size, Valentine possesses a vibrant and confident spirit, ready to conquer the world with their adorable trot. This intelligent and spirited pup thrives on human companionship, showering their loved ones with affectionate licks and warm cuddles. Valentine's playful nature shines through during interactive games and their charming curiosity keeps them constantly exploring their surroundings. With their unwavering loyalty and sweet disposition, Valentine is the perfect canine companion, bringing love and joy to their forever home.",
     "photo_url": "https://images.unsplash.com/photo-1526440847959-4e38e7f00b04?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8WW9ya3NoaXJlJTIwVGVycmllcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=700&q=60"
+=======
+    "photo_url": "https://images.unsplash.com/photo-1526440847959-4e38e7f00b04?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8WW9ya3NoaXJlJTIwVGVycmllcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=700&q=60",
+    "description": "Siberian Husky female mix with a sweet young care free attitude, loving and friendly with others"
+>>>>>>> Stashed changes
 },
 {
     "pet_name": "Juniper",
     "pet_age": "3 years",
-    "life_cycle": "Adult",
     "species": "Dog",
     "breed": "German Shepherd Mix",
     "gender": "female",
     "arrival_date": "2023/01/02",
     "current_date": "2023/05/11",
+<<<<<<< Updated upstream
     "description":"Introducing Juniper, a magnificent 3-year-old German Shepherd mix with a spirit as strong as the towering trees after which they are named. Juniper's regal stature and sleek coat demand attention, but it's their loyal and intelligent nature that truly captures hearts. This confident and alert pup is always up for a challenge, whether it's mastering new tricks or embarking on exciting outdoor adventures. Juniper's inquisitive nature leads them to explore the world with boundless curiosity, making each day an opportunity for discovery. Beyond their impressive physical attributes, Juniper's gentle and affectionate demeanor is evident in their interactions with loved ones, as they eagerly seek closeness and shower their family with unwavering devotion. With Juniper by your side, you'll have a steadfast companion who embodies the very essence of loyalty, bravery, and companionship.",
     "photo_url": "https://images.unsplash.com/photo-1504447914074-080070298e64?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8ODh8RG9FUk5MQkhqdmd8fGVufDB8fHx8&auto=format&fit=crop&w=700&q=60"
+=======
+    "photo_url": "https://images.unsplash.com/photo-1504447914074-080070298e64?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8ODh8RG9FUk5MQkhqdmd8fGVufDB8fHx8&auto=format&fit=crop&w=700&q=60",
+    "description": "Siberian Husky female mix with a sweet young care free attitude, loving and friendly with others"
+>>>>>>> Stashed changes
 },
 {
     "pet_name": "Stoney",
     "pet_age": "3 years",
-    "life_cycle": "Adult",
     "species": "Dog",
     "breed": "Shepherd & Cattle Dog Mix",
     "gender": "male",
     "arrival_date": "2022/09/12",
     "current_date": "2023/05/11",
+<<<<<<< Updated upstream
     "description":"Meet Stoney, a charismatic and spirited 3-year-old Shepherd and Cattle Dog mix with a heart full of adventure and a loyal soul. With a striking blend of breeds, Stoney showcases a unique and captivating appearance, complete with an expressive face and a wagging tail that never ceases. This intelligent and agile pup thrives on mental and physical stimulation, making them an ideal companion for outdoor enthusiasts and active families. Stoney's boundless energy and enthusiasm are infectious, whether it's chasing balls in the park or going on long hikes in nature. Despite their high energy levels, Stoney also possesses a gentle and affectionate side, often seeking comfort and closeness with their loved ones. With their remarkable intelligence, unwavering loyalty, and zest for life, Stoney brings excitement, love, and endless adventures to any home fortunate enough to call them family.",
     "photo_url": "https://images.unsplash.com/photo-1545328951-d483a3667ed0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTIyfERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60"
+=======
+    "photo_url": "https://images.unsplash.com/photo-1545328951-d483a3667ed0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTIyfERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60",
+    "description": "Siberian Husky female mix with a sweet young care free attitude, loving and friendly with others"
+>>>>>>> Stashed changes
 },
 {
     "pet_name": "Reeses Pieces",
     "pet_age": "8 years",
-    "life_cycle": "Senior",
     "species": "Dog",
     "breed": "Chihuahua Mix",
     "gender": "female",
     "arrival_date": "2022/08/08",
     "current_date": "2023/05/11",
+<<<<<<< Updated upstream
     "description":"Say hello to Reeses Pieces, a delightful 8-year-old Chihuahua mix with a heart full of sweetness and a spirit as bright as their namesake. Despite their small size, Reeses Pieces radiates a confident and charming aura that instantly wins over hearts. With their expressive eyes and a perfectly balanced blend of playfulness and maturity, this lovable pup captures attention wherever they go. Reeses Pieces' endearing personality shines through their gentle nature and affectionate demeanor, as they shower their loved ones with adoration and cuddles. Despite their age, this sprightly pooch still enjoys interactive play sessions and leisurely walks, making every moment spent with them a joyful experience. Reeses Pieces is the perfect companion for those seeking a pint-sized bundle of love and companionship, bringing a touch of sweetness and warmth to their forever home.",
     "photo_url": "https://images.unsplash.com/photo-1526579903323-327e1c2d0b27?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8ODd8RG9FUk5MQkhqdmd8fGVufDB8fHx8&auto=format&fit=crop&w=700&q=60"
+=======
+    "photo_url": "https://images.unsplash.com/photo-1526579903323-327e1c2d0b27?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8ODd8RG9FUk5MQkhqdmd8fGVufDB8fHx8&auto=format&fit=crop&w=700&q=60",
+    "description": "Siberian Husky female mix with a sweet young care free attitude, loving and friendly with others"
+>>>>>>> Stashed changes
 
 },
 {
     "pet_name": "Gregory",
     "pet_age": "3 years",
-    "life_cycle": "Adult",
     "species": "Dog",
     "breed": "Siberian Husky",
     "gender": "male",
     "arrival_date": "2023/03/16",
     "current_date": "2023/05/11",
+<<<<<<< Updated upstream
     "description":"Introducing Gregory, a stunning 3-year-old Siberian Husky with a captivating presence and a spirit as free as the open wilderness. With piercing brown eyes that seem to hold the secrets of adventure, Gregory's striking coat and majestic stature make heads turn wherever he goes. This spirited and energetic pup thrives on exploration and outdoor activities, always eager to embark on thrilling escapades. Whether it's zooming through snow-covered landscapes or basking in the warm sunshine, Gregory's zest for life is contagious. Beneath his lively exterior, Gregory is a gentle and loyal companion, forming deep connections with his loved ones and offering unwavering devotion. With his intelligent nature and remarkable endurance, Gregory is not only a remarkable pet but a lifelong adventure partner, ready to accompany his humans on any journey and bring joy to their lives.",
     "photo_url": "https://images.unsplash.com/photo-1568564321589-3e581d074f9b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTg1fERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60"
+=======
+    "photo_url": "https://images.unsplash.com/photo-1568564321589-3e581d074f9b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTg1fERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60",
+    "description": "Siberian Husky female mix with a sweet young care free attitude, loving and friendly with others"
+>>>>>>> Stashed changes
     
 },
 {
     "pet_name": "Hawk",
     "pet_age": "5 years",
-    "life_cycle": "Adult",
     "species": "Dog",
     "breed": "Pointer Mix",
     "gender": "male",
     "arrival_date": "2023/04/24",
     "current_date": "2023/05/11",
+<<<<<<< Updated upstream
     "description":"Meet Hawk, a striking and athletic 5-year-old Pointer mix with a spirit as free as the wind and a heart full of adventure. With a sleek coat that accentuates their lean and agile physique, Hawk embodies grace and elegance in every movement. This intelligent and attentive pup possesses an incredible sense of focus, making them an excellent companion for outdoor activities such as hiking or agility training. Hawk's energy is boundless, and they thrive on exploring new scents and sights during long walks or playful games of fetch. Beyond their active nature, Hawk also has a gentle and affectionate side, showing unwavering loyalty and forming deep bonds with their loved ones. With Hawk by your side, you'll have a devoted and adventurous companion who will make every day an exciting journey filled with love and companionship.",
     "photo_url": "https://images.unsplash.com/photo-1512230074824-4b960a508372?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fFBvaW50ZXIlMjBNaXh8ZW58MHx8MHx8&auto=format&fit=crop&w=700&q=60"
+=======
+    "photo_url": "https://images.unsplash.com/photo-1512230074824-4b960a508372?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fFBvaW50ZXIlMjBNaXh8ZW58MHx8MHx8&auto=format&fit=crop&w=700&q=60",
+    "description": "Siberian Husky female mix with a sweet young care free attitude, loving and friendly with others"
+>>>>>>> Stashed changes
 
 },
 {
     "pet_name": "Roscoe",
     "pet_age": "6 years",
-    "life_cycle": "Adult",
     "species": "Dog",
     "breed": "Pitbull Mix",
     "gender": "male",
     "arrival_date": "2023/01/22",
     "current_date": "2023/05/11",
+<<<<<<< Updated upstream
     "description":"Meet Roscoe, a charismatic and affectionate 6-year-old Pitbull mix with a heart full of love and a gentle spirit that shines through. With a striking coat and a muscular build, Roscoe commands attention wherever he goes. This sweet-natured and loyal pup has an endearing smile that lights up a room, melting hearts with his irresistible charm. Roscoe's playful energy is matched only by his desire to shower his loved ones with unconditional love and devotion. Whether it's curling up for cozy cuddles or joining in on an outdoor adventure, Roscoe's unwavering loyalty and gentle demeanor make him the perfect companion for those seeking a faithful and loving friend. With his remarkable personality and affectionate nature, Roscoe is sure to bring joy and warmth to his forever home.",
     "photo_url": "https://images.unsplash.com/photo-1660760608993-6549f35154eb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8Qm94ZXIlMjBNaXh8ZW58MHx8MHx8&auto=format&fit=crop&w=700&q=60"
+=======
+    "photo_url": "https://images.unsplash.com/photo-1660760608993-6549f35154eb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8Qm94ZXIlMjBNaXh8ZW58MHx8MHx8&auto=format&fit=crop&w=700&q=60",
+    "description": "Siberian Husky female mix with a sweet young care free attitude, loving and friendly with others"
+>>>>>>> Stashed changes
     
 },
 {
     "pet_name": "Jackie",
     "pet_age": "4 months",
-    "life_cycle": "Puppy",
     "species": "Dog",
     "breed": "Shepherd Sheep Dog Mix",
     "gender": "female",
     "arrival_date": "2023/03/03",
     "current_date": "2023/05/11",
+<<<<<<< Updated upstream
     "description":"Meet Jackie, an adorable and bright 4-month-old Shepherd Sheep Dog mix with a heart full of curiosity and a charming personality. With a beautiful coat of fur and an endearing puppy face, Jackie captures the hearts of everyone they meet. Despite their young age, Jackie exhibits remarkable intelligence and a willingness to learn, making them an ideal candidate for training and bonding activities. This playful and energetic pup loves engaging in interactive games and exploring their surroundings with a sense of wonder. Beyond their spirited nature, Jackie also possesses a gentle and affectionate side, melting hearts with their loving snuggles and sweet kisses. With their combination of intelligence, agility, and a loving spirit, Jackie is sure to bring endless joy and companionship to their forever home.",
     "photo_url": "https://images.unsplash.com/photo-1548858565-461b87144b6a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTA1fERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60"
+=======
+    "photo_url": "https://images.unsplash.com/photo-1548858565-461b87144b6a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTA1fERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60",
+    "description": "Siberian Husky female mix with a sweet young care free attitude, loving and friendly with others"
+>>>>>>> Stashed changes
 },
 {
     "pet_name": "Fenris",
     "pet_age": "2 years",
-    "life_cycle": "Young",
     "species": "Dog",
-    "breed": "Pug",
+    "breed": "pug",
     "gender": "female",
     "arrival_date": "2023/02/25",
     "current_date": "2023/05/11",
+<<<<<<< Updated upstream
     "description":"Meet Fenris, an adorable 2-year-old Pug with a lively spirit and a heart full of charm. With their signature wrinkled face and expressive eyes, Fenris captures hearts with their irresistible cuteness. This playful and sociable pup thrives on human interaction, always ready for a fun-filled game or a cuddle session on the couch. Despite their small size, Fenris possesses a big personality and a mischievous streak that adds a delightful dose of spunk to their antics. Their infectious enthusiasm and comical nature bring laughter to every room they enter. Fenris's loving and affectionate nature shines through as they eagerly seek the company of their loved ones, brightening each day with their warm snuggles and slobbery kisses. With their lovable personality and unwavering devotion, Fenris is the perfect furry companion, bringing joy and endless smiles to their forever home.",
     "photo_url": "https://images.unsplash.com/photo-1553698217-934b000f1f00?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTAyfERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60"
+=======
+    "photo_url": "https://images.unsplash.com/photo-1553698217-934b000f1f00?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTAyfERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60",
+    "description": "Siberian Husky female mix with a sweet young care free attitude, loving and friendly with others"
+>>>>>>> Stashed changes
 },
 {
     "pet_name": "Coldfoot",
     "pet_age": "3 months",
-    "life_cycle": "Puppy",
     "species": "Dog",
     "breed": "Standard Poodle Mix",
     "gender": "female",
     "arrival_date": "2023/03/16",
     "current_date": "2023/05/11",
+<<<<<<< Updated upstream
     "description":"Meet Coldfoot, an adorable and playful 3-month-old Standard Poodle mix with a heart full of joy and a coat as soft as a cloud. With their charming curly fur and expressive eyes, Coldfoot is an instant heart-stealer. This intelligent and curious pup is eager to explore the world, whether it's chasing after toys or investigating new scents during their daily walks. Coldfoot's friendly and sociable nature makes them a beloved companion, always ready to greet everyone they meet with a wagging tail and a sweet puppy smile. Despite their tender age, Coldfoot is already showing signs of their poodle heritage, displaying a quick wit and a desire to please their loved ones. With their loving and playful personality, Coldfoot promises to bring endless laughter and companionship to their forever home, making each day brighter with their presence.",
     "photo_url": "https://images.unsplash.com/photo-1555325084-b068599743c9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTI2fERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60"
+=======
+    "photo_url": "https://images.unsplash.com/photo-1555325084-b068599743c9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTI2fERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60",
+    "description": "Siberian Husky female mix with a sweet young care free attitude, loving and friendly with others"
+>>>>>>> Stashed changes
 },
 {
     "pet_name": "Lucy",
     "pet_age": "1 Year",
-    "life_cycle": "Young",
     "species": "Dog",
     "breed": "Cocker Spaniel Mix",
     "gender": "female",
     "arrival_date": "2023/03/16",
     "current_date": "2023/05/11",
+<<<<<<< Updated upstream
     "description":" Meet Lucy, an adorable 1-year-old Cocker Spaniel mix with a heart full of joy and a wagging tail that can brighten anyone's day. With her soft, curly fur and expressive brown eyes, Lucy is the epitome of cuteness and charm. This playful and friendly pup is always ready for a game of fetch or a leisurely walk in the park, radiating an infectious energy that invites everyone to join in the fun. Lucy's affectionate nature shines through as she eagerly seeks belly rubs and snuggles, forming strong bonds with her loved ones. Despite her young age, Lucy possesses a gentle and loving disposition that endears her to both humans and fellow furry friends alike. With her boundless enthusiasm and unwavering loyalty, Lucy is the perfect companion for those seeking a delightful and loyal addition to their family.",
     "photo_url": "https://images.unsplash.com/photo-1588943211346-0908a1fb0b01?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTM5fERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60"
+=======
+    "photo_url": "https://images.unsplash.com/photo-1588943211346-0908a1fb0b01?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTM5fERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60",
+    "description": "Siberian Husky female mix with a sweet young care free attitude, loving and friendly with others"
+>>>>>>> Stashed changes
 },
 {
     "pet_name": "Lucky",
     "pet_age": "5 months",
-    "life_cycle": "Puppy",
     "species": "Dog",
     "breed": " Husky Mix",
     "gender": "female",
     "arrival_date": "2023/03/16",
     "current_date": "2023/05/11",
+<<<<<<< Updated upstream
     "description":"Meet Lucky, an adorable and lively 5-month-old Husky mix with a heart full of playfulness and a zest for life. With his striking blue eyes and a coat that showcases a mix of Husky traits, Lucky captures attention with his unique and charming appearance. This energetic and inquisitive pup is always on the lookout for fun and adventure, whether it's chasing after toys or exploring new environments. Lucky's youthful spirit brings joy and laughter to every moment, and his boundless enthusiasm is simply infectious. Despite his playful nature, Lucky also possesses a gentle and affectionate side, often seeking cuddles and showering his loved ones with sweet puppy kisses. With his endearing personality and a touch of luck in his name, Lucky is the perfect companion for an active and loving home, bringing happiness and a sense of adventure to his forever family.",
     "photo_url": "https://images.unsplash.com/photo-1526660690293-bcd32dc3b123?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTc3fERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60"
+=======
+    "photo_url": "https://images.unsplash.com/photo-1526660690293-bcd32dc3b123?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTc3fERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60",
+    "description": "Siberian Husky female mix with a sweet young care free attitude, loving and friendly with others"
+>>>>>>> Stashed changes
 },
 {
     "pet_name": "Bucky",
     "pet_age": "4 months",
-    "life_cycle": "Puppy",
     "species": "Dog",
     "breed": " Labrador Retriever Mix",
     "gender": "female",
     "arrival_date": "2023/08/16",
     "current_date": "2023/05/11",
+<<<<<<< Updated upstream
     "description":" Meet Bucky, an adorable 4-month-old Labrador Retriever mix with a playful spirit and a heart full of love. With her sleek and shiny coat, soulful eyes, and an ever-wagging tail, Bucky exudes pure joy and enthusiasm. This curious and energetic pup is always ready for new adventures, whether it's exploring the great outdoors or engaging in fun-filled games of fetch. Bucky's intelligence and eagerness to please make him a quick learner, and she is already mastering basic commands with ease. Despite her youthful exuberance, Bucky is a gentle and affectionate companion, seeking out cuddles and belly rubs from her loved ones. With his irresistible charm and boundless energy, Bucky is sure to bring endless laughter and love to his forever home, making her the perfect addition to any family ready for a loyal and fun-loving furry friend.",
     "photo_url": "https://images.unsplash.com/25/puppy-love.jpg?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTc2fERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60"
+=======
+    "photo_url": "https://images.unsplash.com/25/puppy-love.jpg?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTc2fERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60",
+    "description": "Siberian Husky female mix with a sweet young care free attitude, loving and friendly with others"
+>>>>>>> Stashed changes
 },
 {
     "pet_name": "Buck",
     "pet_age": "5 months",
-    "life_cycle": "Puppy",
     "species": "Dog",
     "breed": " Bull Dog",
     "gender": "male",
     "arrival_date": "2023/02/16",
     "current_date": "2023/05/11",
+<<<<<<< Updated upstream
     "description":"Meet Buck, an adorable and playful 5-month-old Bulldog with a heart full of love and a charming personality that captures everyone's attention. With his distinctive wrinkled face and endearing underbite, Buck is a true head-turner. Despite his young age, Buck already embodies the Bulldog's characteristic calm and friendly demeanor, making him an instant favorite among both family and friends. Buck's playful antics and silly expressions bring laughter and joy to those around him, as he delights in chasing toys and engaging in gentle wrestling matches. With his sweet nature and desire to please, Buck quickly forms deep bonds with his loved ones, offering comfort and companionship. Whether it's curling up for a cozy snuggle or cheerfully trotting by your side, Buck is the perfect bundle of love and happiness for any Bulldog enthusiast or dog lover.",
     "photo_url": "https://images.unsplash.com/photo-1521309569781-7bcd429eb2f6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTc1fERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60"
+=======
+    "photo_url": "https://images.unsplash.com/photo-1521309569781-7bcd429eb2f6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTc1fERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60",
+    "description": "Siberian Husky female mix with a sweet young care free attitude, loving and friendly with others"
+>>>>>>> Stashed changes
 },{
     "pet_name": "Louie",
     "pet_age": "2 years",
-    "life_cycle": "Young",
     "species": "Dog",
     "breed": "Cattle Dog Mix",
     "gender": "male",
     "arrival_date": "2023/04/16",
     "current_date": "2023/05/11",
+<<<<<<< Updated upstream
     "description":"Meet Louie, a charismatic and intelligent 2-year-old Cattle Dog mix with a heart full of energy and a zest for life. With a sleek and athletic build, Louie is always ready for action, eager to take on any challenge that comes his way. This lively and alert pup thrives on mental and physical stimulation, making him a perfect companion for active individuals or families. Louie's sharp intellect and quick learning abilities make him a joy to train and engage with, always eager to please his humans. Beyond his energetic nature, Louie also possesses a gentle and affectionate side, showering his loved ones with unwavering loyalty and cuddles. With his boundless energy, intelligent mind, and loving nature, Louie brings endless excitement and companionship to his forever home.",
     "photo_url": "https://images.unsplash.com/photo-1544568100-847a948585b9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MjAzfERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60"
+=======
+    "photo_url": "https://images.unsplash.com/photo-1544568100-847a948585b9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MjAzfERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60",
+    "description": "Siberian Husky female mix with a sweet young care free attitude, loving and friendly with others"
+>>>>>>> Stashed changes
 },
 {
     "pet_name": "Boo Bear",
     "pet_age": "6 months",
-    "life_cycle": "Puppy",
     "species": "Dog",
     "breed": "  Dachshund Poodle Mix",
     "gender": "male",
     "arrival_date": "2023/09/16",
     "current_date": "2023/05/11",
+<<<<<<< Updated upstream
     "description":"Meet Boo Bear, an adorable 6-month-old Dachshund Poodle mix with a heart full of sweetness and a playful spirit that melts hearts. With their expressive eyes and a curly, hypoallergenic coat, Boo Bear exudes charm and cuteness in every wag of their tail. This spunky and energetic pup is always ready for fun and games, whether it's chasing their favorite toy or zooming around the house with endless enthusiasm. Boo Bear's curious nature leads them to explore the world around them, discovering new sights and sounds with boundless curiosity. Despite their small size, Boo Bear has a big heart, overflowing with love and affection for their loved ones. Their gentle nature and loving personality make them the perfect snuggle buddy, always seeking warmth and closeness. With their irresistible charm and playful demeanor, Boo Bear brings joy and happiness to every moment, making them the perfect addition to any loving home.",
     "photo_url": "https://images.unsplash.com/photo-1508948956644-0017e845d797?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MjAxfERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60"
+=======
+    "photo_url": "https://images.unsplash.com/photo-1508948956644-0017e845d797?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MjAxfERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60",
+    "description": "Siberian Husky female mix with a sweet young care free attitude, loving and friendly with others"
+>>>>>>> Stashed changes
 },
 {
     "pet_name": "Socks",
     "pet_age": "2 years",
-    "life_cycle": "Young",
     "species": "Dog",
     "breed": "Yorkshire & Terrier Mix",
     "gender": "male",
     "arrival_date": "2023/03/16",
     "current_date": "2023/05/11",
+<<<<<<< Updated upstream
     "description":"Meet Socks, an adorable and lively 2-year-old Yorkshire Terrier and Terrier mix with a spunky personality and a heart full of love. With a fluffy coat of fur and expressive eyes, Socks is simply irresistible. This pint-sized pup may be small in stature, but their vibrant energy and playful antics make up for it. Socks loves to chase toys, play fetch, and explore every nook and cranny of their surroundings. Their curious nature keeps them constantly on the go, eager to discover new sights and smells. Beyond their spirited nature, Socks has a gentle and affectionate side, always seeking cuddles and melting hearts with their unwavering loyalty. With their charming personality and lively spirit, Socks is the perfect companion for anyone seeking a compact bundle of joy and endless love.",
     "photo_url": "https://images.unsplash.com/photo-1526440847959-4e38e7f00b04?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTkxfERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60"
+=======
+    "photo_url": "https://images.unsplash.com/photo-1526440847959-4e38e7f00b04?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTkxfERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60",
+    "description": "Siberian Husky female mix with a sweet young care free attitude, loving and friendly with others"
+>>>>>>> Stashed changes
 },
 {
     "pet_name": "Beauty",
     "pet_age": "1 year",
-    "life_cycle": "Puppy",
     "species": "Dog",
     "breed": "  Golden Retriever Mix",
     "gender": "female",
     "arrival_date": "2023/02/16",
     "current_date": "2023/05/11",
+<<<<<<< Updated upstream
     "description":"Meet Beauty, a delightful 1-year-old Golden Retriever mix with a heart full of love and a radiant personality that shines bright. With a golden coat that glistens under the sun and a wagging tail that never ceases, Beauty captures attention wherever she goes. This playful and friendly pup possesses boundless energy, always ready for a game of fetch or a romp in the park. Beauty's joyful nature is infectious, bringing smiles to the faces of everyone she encounters. Beyond her playful spirit, Beauty has a gentle and affectionate side, melting hearts with her warm cuddles and gentle nature. With her unwavering loyalty and sweet disposition, Beauty is not only a beautiful companion but also a source of comfort and happiness. She brings love and endless joy to her forever home, making each day brighter with her presence.",
     "photo_url": "https://images.unsplash.com/photo-1502673530728-f79b4cab31b1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MjA1fERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60"
+=======
+    "photo_url": "https://images.unsplash.com/photo-1502673530728-f79b4cab31b1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MjA1fERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60",
+    "description": "Siberian Husky female mix with a sweet young care free attitude, loving and friendly with others"
+>>>>>>> Stashed changes
 },
 {
     "pet_name": "Joe",
     "pet_age": "2 years",
-    "life_cycle": "Young",
     "species": "Dog",
     "breed": " Terrier Mix",
     "gender": "male",
     "arrival_date": "2023/03/16",
     "current_date": "2023/05/11",
+<<<<<<< Updated upstream
     "description":"Meet Joe, a charming and playful 2-year-old Terrier mix with a heart full of boundless energy and a personality that lights up any room. With his expressive eyes and a wagging tail that never quits, Joe captures attention and steals hearts effortlessly. This lively and curious pup is always ready for an adventure, whether it's exploring new trails or engaging in interactive playtime. Joe's small size doesn't hinder his zest for life; in fact, it only adds to his agility and ability to squeeze himself into the most unexpected places. Beyond his playful nature, Joe is also a loving and affectionate companion, always ready to snuggle up close and offer comforting cuddles. With his delightful charm and lovable nature, Joe is the perfect addition to any loving home, bringing endless joy and companionship to those fortunate enough to call him family.",
     "photo_url": "https://images.unsplash.com/photo-1561037404-61cd46aa615b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MjA4fERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60"
+=======
+    "photo_url": "https://images.unsplash.com/photo-1561037404-61cd46aa615b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MjA4fERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60",
+    "description": "Siberian Husky female mix with a sweet young care free attitude, loving and friendly with others"
+>>>>>>> Stashed changes
 },{
     "pet_name": "Joey",
     "pet_age": "4 years",
-    "life_cycle": "Adult",
     "species": "Dog",
     "breed": " Miniature Schnauzer",
     "gender": "female",
     "arrival_date": "2023/05/16",
     "current_date": "2023/05/11",
+<<<<<<< Updated upstream
     "description":"Meet Joey, a charming and spirited 4-year-old Miniature Schnauzer with a heart full of personality and a playful nature that's simply irresistible. With their signature wiry coat and expressive eyebrows, Joey is a delightful sight to behold. This intelligent and alert pup is always ready for a good time, whether it's chasing toys around the house or engaging in interactive games with their loved ones. Joey's friendly and sociable nature makes them a beloved member of any gathering, effortlessly winning the hearts of both friends and strangers alike. Beyond their playful spirit, Joey is also a loyal and loving companion, seeking affectionate cuddles and forming deep bonds with their family. With their adorable antics and unwavering devotion, Joey brings joy and companionship to every moment, making them the perfect furry friend for a warm and loving home.",
     "photo_url": "https://images.unsplash.com/photo-1549775924-433bdc7ea7a9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTc4fERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60"
 },
 {
+=======
+    "photo_url": "https://images.unsplash.com/photo-1549775924-433bdc7ea7a9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTc4fERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60",
+    "description": "Siberian Husky female mix with a sweet young care free attitude, loving and friendly with others"
+},
+{
+    "pet_name": "Bucky",
+    "pet_age": "4 years",
+    "species": "Dog",
+    "breed": " Pit Bull & lab Mix",
+    "gender": "male",
+    "arrival_date": "2023/02/16",
+    "current_date": "2023/05/11",
+    "photo_url": "https://images.unsplash.com/photo-1508717903-247ad46ca533?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTgyfERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60",
+    "description": "Siberian Husky female mix with a sweet young care free attitude, loving and friendly with others"
+},
+{
+>>>>>>> Stashed changes
     "pet_name": "Dug",
     "pet_age": "4 years",
-    "life_cycle": "Adult",
     "species": "Dog",
     "breed": "Dalmatian",
     "gender": "male",
     "arrival_date": "2023/03/16",
     "current_date": "2023/05/11",
+<<<<<<< Updated upstream
     "description":"Meet Dug, a charismatic 4-year-old Dalmatian with a playful spirit and a heart full of boundless energy. With his iconic coat covered in distinctive spots, Dug is a true head-turner, capturing attention wherever he goes. This lively and animated pup has a mischievous twinkle in his eyes, always ready for an exciting adventure or a game of fetch. Dug's athleticism and agility make him a natural explorer, whether it's chasing after a ball or exploring new trails. Beyond his energetic nature, Dug also possesses a gentle and affectionate side, eagerly seeking snuggles and showering his loved ones with unconditional love. With his unique charm and spirited personality, Dug is the perfect addition to an active and loving home, ready to bring joy and laughter to every moment.",
     "photo_url": "https://images.unsplash.com/photo-1550953581-a75aa86fec20?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTc5fERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60"
+=======
+    "photo_url": "https://images.unsplash.com/photo-1550953581-a75aa86fec20?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTc5fERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60",
+    "description": "Siberian Husky female mix with a sweet young care free attitude, loving and friendly with others"
+>>>>>>> Stashed changes
 },
 {
     "pet_name": "Lady",
     "pet_age": "4 years",
-    "life_cycle": "Adult",
     "species": "Dog",
     "breed": "  Golden Retriever Mix",
     "gender": "female",
     "arrival_date": "2023/04/16",
     "current_date": "2023/05/11",
+<<<<<<< Updated upstream
     "description":"Meet Lady, a radiant 4-year-old Golden Retriever mix with a heart as golden as her flowing fur. With a captivating smile and warm, chocolate-brown eyes, Lady exudes a gentle and loving nature that instantly melts hearts. This charismatic and loyal companion is always ready for an adventure, whether it's exploring nature trails or splashing in the water. Lady's playful spirit shines through her boundless energy and her enthusiasm for life is contagious. Beneath her exuberant personality, Lady also possesses a calm and nurturing side, offering comfort and companionship to those in need. With her unwavering loyalty, affectionate nature, and a zest for life, Lady is the perfect furry friend for a loving and joyful home, bringing sunshine and happiness to every moment shared together.",
     "photo_url": "https://images.unsplash.com/photo-1455526050980-d3e7b9b789a4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTg5fERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60"
+=======
+    "photo_url": "https://images.unsplash.com/photo-1455526050980-d3e7b9b789a4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTg5fERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60",
+    "description": "Siberian Husky female mix with a sweet young care free attitude, loving and friendly with others"
+>>>>>>> Stashed changes
 },
 {
     "pet_name": "Stud",
     "pet_age": "5 months",
-    "life_cycle": "Puppy",
     "species": "Dog",
     "breed": "Pit Bull & lab Mix",
     "gender": "male",
     "arrival_date": "2023/04/16",
     "current_date": "2023/05/11",
+<<<<<<< Updated upstream
     "description":"Meet Stud, an adorable and playful 5-month-old Pitbull and Labrador mix with a heart full of joy and a charming personality that will melt your heart. With a sleek and shiny coat, expressive eyes, and an endearing wagging tail, Stud captures attention wherever he goes. This energetic and affectionate pup is always up for a good time, whether it's playing fetch in the yard or learning new tricks. Stud's friendly and outgoing nature makes him an instant hit with both humans and furry friends alike. Despite his young age, Stud shows a remarkable intelligence and eagerness to please, making training sessions a breeze. With his loyal and loving disposition, Stud is sure to become a beloved member of any family, bringing endless happiness and laughter to his forever home.",
     "photo_url": "https://images.unsplash.com/photo-1567752881157-8b3735579c74?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8N3xEb0VSTkxCSGp2Z3x8ZW58MHx8fHw%3D&auto=format&fit=crop&w=700&q=60"
+=======
+    "photo_url": "https://images.unsplash.com/photo-1567752881157-8b3735579c74?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8N3xEb0VSTkxCSGp2Z3x8ZW58MHx8fHw%3D&auto=format&fit=crop&w=700&q=60",
+    "description": "Siberian Husky female mix with a sweet young care free attitude, loving and friendly with others"
+>>>>>>> Stashed changes
 },
 {
     "pet_name": "Basil",
     "pet_age": "1 Year",
-    "life_cycle": "Young",
     "species": "Dog",
     "breed": " Pointer & Terrier Mix",
     "gender": "male",
     "arrival_date": "2023/05/16",
     "current_date": "2023/05/11",
+<<<<<<< Updated upstream
     "description":"Meet Basil, a delightful 1-year-old Pointer and Terrier mix with a playful spirit and a heart full of love. With his unique blend of breeds, Basil showcases an intriguing combination of athleticism and charm. This energetic and agile pup is always on the move, ready to explore the world around him with enthusiasm and curiosity. Basil's alert and intelligent nature makes him a quick learner, thriving in training sessions and interactive games. Despite his active nature, Basil also possesses a gentle and affectionate side, eagerly seeking cuddles and snuggles with his loved ones. With his endearing personality and unwavering loyalty, Basil is the perfect companion for those seeking a bundle of joy and endless adventures, adding spice and warmth to any loving home.",
     "photo_url": "https://images.unsplash.com/photo-1675870405034-3a2fb38852be?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8Mzl8RG9FUk5MQkhqdmd8fGVufDB8fHx8&auto=format&fit=crop&w=700&q=60"
+=======
+    "photo_url": "https://images.unsplash.com/photo-1675870405034-3a2fb38852be?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8Mzl8RG9FUk5MQkhqdmd8fGVufDB8fHx8&auto=format&fit=crop&w=700&q=60",
+    "description": "Siberian Husky female mix with a sweet young care free attitude, loving and friendly with others"
+>>>>>>> Stashed changes
 },
 {
     "pet_name": "Judie",
     "pet_age": "5 months",
-    "life_cycle": "Puppy",
     "species": "Dog",
     "breed": "Standard Poodle & Terrier Mix",
     "gender": "female",
     "arrival_date": "2023/03/16",
     "current_date": "2023/05/11",
+<<<<<<< Updated upstream
     "description":"Meet Judie, an adorable 5-month-old Standard Poodle and Terrier mix with a winning combination of elegance and playfulness. With a curly and hypoallergenic coat that begs for gentle petting and a bright pair of eyes that exude intelligence, Judie is a true head-turner. This lively and curious pup approaches life with enthusiasm and an endless desire to learn. Whether it's mastering new tricks or exploring the world with a wagging tail, Judie's energy is infectious. Despite their youthful exuberance, Judie also possesses a sweet and affectionate side, showering their loved ones with cuddles and affection. With their intelligence and eager-to-please nature, Judie is a perfect companion for anyone seeking a charming and trainable companion. Get ready for a lifetime of love, laughter, and unforgettable moments with Judie by your side.",
     "photo_url": "https://images.unsplash.com/photo-1626706058098-dd62bef8bfdc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NDB8RG9FUk5MQkhqdmd8fGVufDB8fHx8&auto=format&fit=crop&w=700&q=60"
 },
@@ -382,144 +515,201 @@
     "pet_name": "Betsy",
     "pet_age": "7 years",
     "life_cycle": "Senior",
+=======
+    "photo_url": "https://images.unsplash.com/photo-1626706058098-dd62bef8bfdc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NDB8RG9FUk5MQkhqdmd8fGVufDB8fHx8&auto=format&fit=crop&w=700&q=60",
+    "description": "Siberian Husky female mix with a sweet young care free attitude, loving and friendly with others"
+},
+{
+    "pet_name": "Bucky",
+    "pet_age": "3 years",
+>>>>>>> Stashed changes
     "species": "Dog",
     "breed": " Russel Terrier German Shepherd Mix",
     "gender": "female",
     "arrival_date": "2023/03/16",
     "current_date": "2023/05/11",
+<<<<<<< Updated upstream
     "description":"Meet Betsy, a charming and loyal 7-year-old Russell Terrier German Shepherd mix with a heart full of love and a spirit that lights up every room. With a mix of breeds, Betsy exhibits a unique and captivating appearance, combining the adorable features of a Russell Terrier with the noble stature of a German Shepherd. Betsy's expressive eyes hold a depth of wisdom and warmth, reflecting her intelligence and kind nature. This mature and well-rounded pup is a steadfast companion, always there to provide comfort and support. Betsy thrives on human connection, forming strong bonds with her loved ones and showering them with unwavering loyalty. Whether it's going for long walks, engaging in playful activities, or simply enjoying quiet moments together, Betsy's gentle and affectionate spirit brings a sense of joy and serenity to any home lucky enough to have her as a part of the family.",
     "photo_url": "https://images.unsplash.com/photo-1612724572648-3cd89cd88176?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MzZ8RG9FUk5MQkhqdmd8fGVufDB8fHx8&auto=format&fit=crop&w=700&q=60"
+=======
+    "photo_url": "https://images.unsplash.com/photo-1612724572648-3cd89cd88176?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MzZ8RG9FUk5MQkhqdmd8fGVufDB8fHx8&auto=format&fit=crop&w=700&q=60",
+    "description": "Siberian Husky female mix with a sweet young care free attitude, loving and friendly with others"
+>>>>>>> Stashed changes
 },
 {
     "pet_name": "Jude",
     "pet_age": "3 years",
-    "life_cycle": "Adult",
     "species": "Dog",
     "breed": "American Bulldog & Lab Mix",
     "gender": "female",
     "arrival_date": "2023/04/16",
     "current_date": "2023/05/11",
+<<<<<<< Updated upstream
     "description":"Meet Jude, a lovable 3-year-old American Bulldog and Labrador mix with a heart full of kindness and a playful spirit that's impossible to resist. With a muscular build and a wagging tail that never stops, Jude exudes a warm and inviting presence. This friendly and outgoing pup is always eager to make new friends, both human and furry alike. Jude's intelligence and trainability make them a quick learner, excelling in obedience and agility. Whether it's engaging in a spirited game of fetch or enjoying a leisurely walk in the park, Jude's boundless energy and enthusiasm bring joy to every moment. Beyond their playful nature, Jude also has a gentle and affectionate side, often seeking closeness and showering their loved ones with cuddles and slobbery kisses. With their loyal and loving nature, Jude is the perfect companion for those seeking a devoted and fun-loving furry friend to share life's adventures with.",
     "photo_url": "https://images.unsplash.com/photo-1655780421274-b813ee74cd56?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MzV8RG9FUk5MQkhqdmd8fGVufDB8fHx8&auto=format&fit=crop&w=700&q=60"
+=======
+    "photo_url": "https://images.unsplash.com/photo-1655780421274-b813ee74cd56?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MzV8RG9FUk5MQkhqdmd8fGVufDB8fHx8&auto=format&fit=crop&w=700&q=60",
+    "description": "Siberian Husky female mix with a sweet young care free attitude, loving and friendly with others"
+>>>>>>> Stashed changes
 },
 {
     "pet_name": "James",
     "pet_age": "1 Year",
-    "life_cycle": "Young",
     "species": "Dog",
     "breed": "Yorkshire & Shih Tzu Mix",
     "gender": "male",
     "arrival_date": "2023/08/16",
     "current_date": "2023/05/11",
+<<<<<<< Updated upstream
     "description":"Meet James, an adorable 1-year-old Yorkshire and Shih Tzu mix with a playful spirit and a heart full of charm. With a fluffy coat of soft fur and expressive dark eyes, James captures hearts with his endearing appearance. This cheerful and lively pup exudes energy and joy, always ready for a game of fetch or a fun romp in the park. James' inquisitive nature leads him to explore his surroundings with curiosity and enthusiasm. Despite his small size, James has a big personality, making him the life of the party wherever he goes. Beyond his playful demeanor, James also possesses a gentle and affectionate side, showering his loved ones with cuddles and wagging his tail with pure delight. With his lovable nature and irresistible charm, James is the perfect companion for anyone seeking a bundle of joy and companionship in a pint-sized package.",
     "photo_url": "https://images.unsplash.com/photo-1585075489243-82997ab78227?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NTV8RG9FUk5MQkhqdmd8fGVufDB8fHx8&auto=format&fit=crop&w=700&q=60"
+=======
+    "photo_url": "https://images.unsplash.com/photo-1585075489243-82997ab78227?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NTV8RG9FUk5MQkhqdmd8fGVufDB8fHx8&auto=format&fit=crop&w=700&q=60",
+    "description": "Siberian Husky female mix with a sweet young care free attitude, loving and friendly with others"
+>>>>>>> Stashed changes
 },
 {
     "pet_name": "Boi",
     "pet_age": "4 months",
-    "life_cycle": "Puppy",
     "species": "Dog",
     "breed": "  Mix",
     "gender": "male",
     "arrival_date": "2023/04/16",
     "current_date": "2023/05/11",
+<<<<<<< Updated upstream
     "description":"Meet Boi, an adorable and playful 4-month-old mix dog with a heart full of puppy antics and a zest for life. With a charming combination of breeds, Boi's appearance is as unique as their vibrant personality. Boi's bright eyes twinkle with curiosity and joy as they navigate their way through the world, discovering new sights and sounds at every turn. This energetic and mischievous pup is always ready for a game of chase or a fun-filled romp in the park. Boi's boundless enthusiasm is contagious, bringing smiles to the faces of everyone they meet. Despite their youthful exuberance, Boi also possesses a sweet and gentle nature, melting hearts with their affectionate snuggles and wagging tail. With their playful spirit and loving disposition, Boi is sure to bring endless laughter and love to their forever home, making them the perfect addition to a family seeking a furry bundle of joy.",
     "photo_url": "https://images.unsplash.com/photo-1583682255643-e49aee474352?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NTd8RG9FUk5MQkhqdmd8fGVufDB8fHx8&auto=format&fit=crop&w=700&q=60"
+=======
+    "photo_url": "https://images.unsplash.com/photo-1583682255643-e49aee474352?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NTd8RG9FUk5MQkhqdmd8fGVufDB8fHx8&auto=format&fit=crop&w=700&q=60",
+    "description": "Siberian Husky female mix with a sweet young care free attitude, loving and friendly with others"
+>>>>>>> Stashed changes
 },
 {
     "pet_name": "Blue",
     "pet_age": "5 years",
-    "life_cycle": "Adult",
     "species": "Dog",
     "breed": "Scotty Dog",
     "gender": "female",
     "arrival_date": "2023/04/16",
     "current_date": "2023/05/11",
+<<<<<<< Updated upstream
     "description":"Meet Blue, a delightful 5-year-old female Scotty dog with a vibrant personality and a heart full of charm. With her distinct wiry coat and alert, expressive eyes, Blue exudes an air of elegance and confidence. Despite her small size, Blue possesses a spirited and independent nature, always ready to explore her surroundings with curiosity and determination. This intelligent and quick-witted pup is known for her keen problem-solving skills and her ability to learn new tricks with ease. Blue's loyalty and affection shine through in her interactions with her loved ones, as she showers them with gentle nuzzles and devoted companionship. With her unique blend of sophistication and playfulness, Blue is the perfect companion for anyone seeking a loyal and engaging four-legged friend.",
     "photo_url": "https://images.unsplash.com/photo-1614702921741-531d9eabbf1f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NTZ8RG9FUk5MQkhqdmd8fGVufDB8fHx8&auto=format&fit=crop&w=700&q=60"
+=======
+    "photo_url": "https://images.unsplash.com/photo-1614702921741-531d9eabbf1f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NTZ8RG9FUk5MQkhqdmd8fGVufDB8fHx8&auto=format&fit=crop&w=700&q=60",
+    "description": "Siberian Husky female mix with a sweet young care free attitude, loving and friendly with others"
+>>>>>>> Stashed changes
 },
 {
     "pet_name": "Spot",
     "pet_age": "3 years",
-    "life_cycle": "Adult",
     "species": "Dog",
     "breed": "Bull Terrier",
     "gender": "female",
     "arrival_date": "2023/04/16",
     "current_date": "2023/05/11",
+<<<<<<< Updated upstream
     "description":"",
     "photo_url": "https://images.unsplash.com/photo-1531860588597-5f93b7296082?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8OTB8RG9FUk5MQkhqdmd8fGVufDB8fHx8&auto=format&fit=crop&w=700&q=60"
+=======
+    "photo_url": "https://images.unsplash.com/photo-1531860588597-5f93b7296082?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8OTB8RG9FUk5MQkhqdmd8fGVufDB8fHx8&auto=format&fit=crop&w=700&q=60",
+    "description": "Siberian Husky female mix with a sweet young care free attitude, loving and friendly with others"
+>>>>>>> Stashed changes
 },
 {
     "pet_name": "Bucky",
     "pet_age": "4 months",
-    "life_cycle": "Puppy",
     "species": "Dog",
     "breed": " Labrador Retriever Mix",
-    "gender": "female",
+    "gender": "male",
     "arrival_date": "2023/08/16",
     "current_date": "2023/05/11",
+<<<<<<< Updated upstream
     "description":"",
     "photo_url": "https://images.unsplash.com/25/puppy-love.jpg?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTc2fERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60"
+=======
+    "photo_url": "https://images.unsplash.com/photo-1517854883321-ab2a463cce90?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTQ4fERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60",
+    "description": "Siberian Husky female mix with a sweet young care free attitude, loving and friendly with others"
+>>>>>>> Stashed changes
 },{
     "pet_name": "Sky",
     "pet_age": "3 years",
-    "life_cycle": "Adult",
     "species": "Dog",
     "breed": "Pointer & Hound Mix",
     "gender": "female",
     "arrival_date": "2023/03/16",
     "current_date": "2023/05/11",
+<<<<<<< Updated upstream
     "description":"",
     "photo_url": "https://images.unsplash.com/photo-1671900601633-fdb5d96f70df?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8ODZ8RG9FUk5MQkhqdmd8fGVufDB8fHx8&auto=format&fit=crop&w=700&q=60"
+=======
+    "photo_url": "https://images.unsplash.com/photo-1671900601633-fdb5d96f70df?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8ODZ8RG9FUk5MQkhqdmd8fGVufDB8fHx8&auto=format&fit=crop&w=700&q=60",
+    "description": "Siberian Husky female mix with a sweet young care free attitude, loving and friendly with others"
+>>>>>>> Stashed changes
 },
 {
     "pet_name": "Russel",
     "pet_age": "5 Years",
-    "life_cycle": "Adult",
     "species": "Dog",
     "breed": "German Shepherd Dog & American Staffordshire Terrier Mix",
     "gender": "male",
     "arrival_date": "2023/03/16",
     "current_date": "2023/05/11",
+<<<<<<< Updated upstream
     "description":"",
     "photo_url": "https://images.unsplash.com/photo-1655780422046-6539ad4198d2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8ODh8RG9FUk5MQkhqdmd8fGVufDB8fHx8&auto=format&fit=crop&w=700&q=60"
+=======
+    "photo_url": "https://images.unsplash.com/photo-1655780422046-6539ad4198d2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8ODh8RG9FUk5MQkhqdmd8fGVufDB8fHx8&auto=format&fit=crop&w=700&q=60",
+    "description": "Siberian Husky female mix with a sweet young care free attitude, loving and friendly with others"
+>>>>>>> Stashed changes
 },
 {
     "pet_name": "Susie",
     "pet_age": "3 months",
-    "life_cycle": "Puppy",
     "species": "Dog",
     "breed": "Poodle & Shih Tzu Mix",
     "gender": "female",
     "arrival_date": "2023/05/10",
     "current_date": "2023/05/11",
+<<<<<<< Updated upstream
     "description":"",
     "photo_url": "https://images.unsplash.com/photo-1608788312419-4bef32cdd514?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NzR8RG9FUk5MQkhqdmd8fGVufDB8fHx8&auto=format&fit=crop&w=700&q=60"
+=======
+    "photo_url": "https://images.unsplash.com/photo-1608788312419-4bef32cdd514?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NzR8RG9FUk5MQkhqdmd8fGVufDB8fHx8&auto=format&fit=crop&w=700&q=60",
+    "description": "Siberian Husky female mix with a sweet young care free attitude, loving and friendly with others"
+>>>>>>> Stashed changes
 },
 {
     "pet_name": "Buster",
     "pet_age": "4 months",
-    "life_cycle": "Puppy",
     "species": "Dog",
     "breed": "Shepherd & Pointer Mix",
     "gender": "female",
     "arrival_date": "2023/03/18",
     "current_date": "2023/05/11",
+<<<<<<< Updated upstream
     "description":"",
     "photo_url": "https://images.unsplash.com/photo-1617727045018-cd71d00c7018?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MzR8RG9FUk5MQkhqdmd8fGVufDB8fHx8&auto=format&fit=crop&w=700&q=60"
+=======
+    "photo_url": "https://images.unsplash.com/photo-1617727045018-cd71d00c7018?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MzR8RG9FUk5MQkhqdmd8fGVufDB8fHx8&auto=format&fit=crop&w=700&q=60",
+    "description": "Siberian Husky female mix with a sweet young care free attitude, loving and friendly with others"
+>>>>>>> Stashed changes
 },
 {
     "pet_name": "Buddy",
-    "pet_age": "8 months",
-    "life_cycle": "Puppy",
+    "pet_age": 0.8,
     "species": "Dog",
     "breed": "Terrier & Shih Tzu Mix",
     "gender": "male",
     "arrival_date": "2023/03/15",
     "current_date": "2023/05/11",
+<<<<<<< Updated upstream
     "description":"",
     "photo_url": "https://images.unsplash.com/photo-1523979229794-bd082f68650a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NjJ8RG9FUk5MQkhqdmd8fGVufDB8fHx8&auto=format&fit=crop&w=700&q=60"
+=======
+    "photo_url": "https://images.unsplash.com/photo-1523979229794-bd082f68650a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NjJ8RG9FUk5MQkhqdmd8fGVufDB8fHx8&auto=format&fit=crop&w=700&q=60",
+    "description": "Siberian Husky female mix with a sweet young care free attitude, loving and friendly with others"
+>>>>>>> Stashed changes
 },{
     "pet_name": "Lola",
     "pet_age": "4 months",
@@ -527,8 +717,13 @@
     "gender": "female",
     "arrival_date": "2023/05/10",
     "current_date": "2023/05/11",
+<<<<<<< Updated upstream
     "description":"",
     "photo_url": "https://images.unsplash.com/photo-1604430352727-c0555f882e01?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NTUzfERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60"
+=======
+    "photo_url": "https://images.unsplash.com/photo-1604430352727-c0555f882e01?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NTUzfERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60",
+    "description": "Siberian Husky female mix with a sweet young care free attitude, loving and friendly with others"
+>>>>>>> Stashed changes
 },
 {
     "pet_name": "Gus",
@@ -537,20 +732,29 @@
     "gender": "male",
     "arrival_date": "2023/04/20",
     "current_date": "2023/05/11",
+<<<<<<< Updated upstream
     "description":"",
     "photo_url": "https://images.unsplash.com/photo-1613685106114-63a60f4aa467?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NTU0fERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60"
+=======
+    "photo_url": "https://images.unsplash.com/photo-1613685106114-63a60f4aa467?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NTU0fERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60",
+    "description": "Siberian Husky female mix with a sweet young care free attitude, loving and friendly with others"
+>>>>>>> Stashed changes
 },
 {
     "pet_name": "Babe",
     "pet_age": "2 years",
     "species": "Dog",
-    "life_cycle": "Young",
     "breed": " Labrador Retriever Mix",
     "gender": "female",
     "arrival_date": "2023/04/30",
     "current_date": "2023/05/11",
+<<<<<<< Updated upstream
     "description":"",
     "photo_url": "https://images.unsplash.com/photo-1601275226085-f446243383cc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NTU1fERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60"
+=======
+    "photo_url": "https://images.unsplash.com/photo-1601275226085-f446243383cc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NTU1fERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60",
+    "description": "Siberian Husky female mix with a sweet young care free attitude, loving and friendly with others"
+>>>>>>> Stashed changes
 },
 {
     "pet_name": "Love",
@@ -559,8 +763,13 @@
     "gender": "female",
     "arrival_date": "2023/05/10",
     "current_date": "2023/05/11",
+<<<<<<< Updated upstream
     "description":"",
     "photo_url": "https://images.unsplash.com/photo-1535268647677-300dbf3d78d1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NTU3fERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60"
+=======
+    "photo_url": "https://images.unsplash.com/photo-1535268647677-300dbf3d78d1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NTU3fERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60",
+    "description": "Siberian Husky female mix with a sweet young care free attitude, loving and friendly with others"
+>>>>>>> Stashed changes
 },
 {
     "pet_name": "Checky",
@@ -569,8 +778,13 @@
     "gender": "female",
     "arrival_date": "2023/03/16",
     "current_date": "2023/05/11",
+<<<<<<< Updated upstream
     "description":"",
     "photo_url": "https://images.unsplash.com/photo-1575897841822-57b92d362266?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NTYyfERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60"
+=======
+    "photo_url": "https://images.unsplash.com/photo-1575897841822-57b92d362266?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NTYyfERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60",
+    "description": "Siberian Husky female mix with a sweet young care free attitude, loving and friendly with others"
+>>>>>>> Stashed changes
 },
 {
     "pet_name": "Smokey",
@@ -579,8 +793,13 @@
     "gender": "male",
     "arrival_date": "2023/05/11",
     "current_date": "2023/05/11",
+<<<<<<< Updated upstream
     "description":"",
     "photo_url": "https://images.unsplash.com/photo-1445499348736-29b6cdfc03b9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NTYwfERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D                                   c&auto=format&fit=crop&w=700&q=60"
+=======
+    "photo_url": "https://images.unsplash.com/photo-1445499348736-29b6cdfc03b9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NTYwfERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3Dc&auto=format&fit=crop&w=700&q=60",
+    "description": "Siberian Husky female mix with a sweet young care free attitude, loving and friendly with others"
+>>>>>>> Stashed changes
 },
 {
     "pet_name": "Gibby",
@@ -589,8 +808,13 @@
     "gender": "female",
     "arrival_date": "2023/04/20",
     "current_date": "2023/05/11",
+<<<<<<< Updated upstream
     "description":"",
     "photo_url": "https://images.unsplash.com/photo-1472491235688-bdc81a63246e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2340&q=80"
+=======
+    "photo_url": "https://images.unsplash.com/photo-1472491235688-bdc81a63246e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2340&q=80",
+    "description": "Siberian Husky female mix with a sweet young care free attitude, loving and friendly with others"
+>>>>>>> Stashed changes
 },
 {
     "pet_name": "Elvis",
@@ -599,8 +823,13 @@
     "gender": "male",
     "arrival_date": "2023/08/16",
     "current_date": "2023/05/11",
+<<<<<<< Updated upstream
     "description":"",
     "photo_url": "https://images.unsplash.com/photo-1606740271454-aa06533db791?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NTcxfERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60"
+=======
+    "photo_url": "https://images.unsplash.com/photo-1606740271454-aa06533db791?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NTcxfERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60",
+    "description": "Siberian Husky female mix with a sweet young care free attitude, loving and friendly with others"
+>>>>>>> Stashed changes
 },
 {
     "pet_name": "June",
@@ -609,8 +838,13 @@
     "gender": "female",
     "arrival_date": "2023/03/16",
     "current_date": "2023/05/11",
+<<<<<<< Updated upstream
     "description":"",
     "photo_url": "https://images.unsplash.com/photo-1582725461742-8ecd962c260d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NTc2fERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60"
+=======
+    "photo_url": "https://images.unsplash.com/photo-1582725461742-8ecd962c260d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NTc2fERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60",
+    "description": "Siberian Husky female mix with a sweet young care free attitude, loving and friendly with others"
+>>>>>>> Stashed changes
 },
 {
     "pet_name": "Ms.Kitty",
@@ -619,7 +853,8 @@
     "gender": "female",
     "arrival_date": "2023/05/16",
     "current_date": "2023/05/11",
-    "photo_url": "https://images.unsplash.com/photo-1506755855567-92ff770e8d00?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NTc3fERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60"
+    "photo_url": "https://images.unsplash.com/photo-1506755855567-92ff770e8d00?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NTc3fERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60",
+    "description": "Siberian Husky female mix with a sweet young care free attitude, loving and friendly with others"
 },
 {
     "pet_name": "Angle",
@@ -628,8 +863,13 @@
     "gender": "female",
     "arrival_date": "2023/05/06",
     "current_date": "2023/05/11",
+<<<<<<< Updated upstream
     "description":"",
     "photo_url": "https://images.unsplash.com/photo-1572590407445-ac6252f1a5b1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NTc5fERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60"
+=======
+    "photo_url": "https://images.unsplash.com/photo-1572590407445-ac6252f1a5b1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NTc5fERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60",
+    "description": "Siberian Husky female mix with a sweet young care free attitude, loving and friendly with others"
+>>>>>>> Stashed changes
 },
 {
     "pet_name": "Huck",
@@ -638,8 +878,13 @@
     "gender": "male",
     "arrival_date": "2023/04/22",
     "current_date": "2023/05/11",
+<<<<<<< Updated upstream
     "description":"",
     "photo_url": "https://images.unsplash.com/photo-1613962912125-76c8413778d1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NTczfERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60"
+=======
+    "photo_url": "https://images.unsplash.com/photo-1613962912125-76c8413778d1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NTczfERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60",
+    "description": "Siberian Husky female mix with a sweet young care free attitude, loving and friendly with others"
+>>>>>>> Stashed changes
 },
 {
     "pet_name": "Lovely",
@@ -648,8 +893,13 @@
     "gender": "female",
     "arrival_date": "2023/04/15",
     "current_date": "2023/05/11",
+<<<<<<< Updated upstream
     "description":"",
     "photo_url": "https://images.unsplash.com/photo-1556582305-528bffcf7af0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NTgwfERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60"
+=======
+    "photo_url": "https://images.unsplash.com/photo-1556582305-528bffcf7af0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NTgwfERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60",
+    "description": "Siberian Husky female mix with a sweet young care free attitude, loving and friendly with others"
+>>>>>>> Stashed changes
 },
 {
     "pet_name": "Sweetie",
@@ -658,8 +908,13 @@
     "gender": "female",
     "arrival_date": "2023/04/22",
     "current_date": "2023/05/11",
+<<<<<<< Updated upstream
     "description":"",
     "photo_url": "https://images.unsplash.com/photo-1587996833651-06a23343b15d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NTk2fERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60"
+=======
+    "photo_url": "https://images.unsplash.com/photo-1587996833651-06a23343b15d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NTk2fERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60",
+    "description": "Siberian Husky female mix with a sweet young care free attitude, loving and friendly with others"
+>>>>>>> Stashed changes
 },
 {
     "pet_name": "Gray",
@@ -668,8 +923,13 @@
     "gender": "male",
     "arrival_date": "2023/04/14",
     "current_date": "2023/05/11",
+<<<<<<< Updated upstream
     "description":"",
     "photo_url": "https://images.unsplash.com/photo-1567270671170-fdc10a5bf831?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NTk1fERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60"
+=======
+    "photo_url": "https://images.unsplash.com/photo-1567270671170-fdc10a5bf831?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NTk1fERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60",
+    "description": "Siberian Husky female mix with a sweet young care free attitude, loving and friendly with others"
+>>>>>>> Stashed changes
 },
 {
     "pet_name": "Strips",
@@ -678,7 +938,8 @@
     "gender": "female",
     "arrival_date": "2023/04/18",
     "current_date": "2023/05/11",
-    "photo_url": "https://images.unsplash.com/photo-1503844281047-cf42eade5ca5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NjEzfERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60"
+    "photo_url": "https://images.unsplash.com/photo-1503844281047-cf42eade5ca5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NjEzfERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60",
+    "description": "Siberian Husky female mix with a sweet young care free attitude, loving and friendly with others"
 },
 {
     "pet_name": "Fluffy",
@@ -687,8 +948,13 @@
     "gender": "female",
     "arrival_date": "2023/05/05",
     "current_date": "2023/05/11",
+<<<<<<< Updated upstream
     "description":"",
     "photo_url": "https://images.unsplash.com/photo-1609151354448-c4a53450c6e9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MzI2fERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60"
+=======
+    "photo_url": "https://images.unsplash.com/photo-1609151354448-c4a53450c6e9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MzI2fERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60",
+    "description": "Siberian Husky female mix with a sweet young care free attitude, loving and friendly with others"
+>>>>>>> Stashed changes
 },
 {
     "pet_name": "Happy",
@@ -697,8 +963,13 @@
     "gender": "female",
     "arrival_date": "2023/08/16",
     "current_date": "2023/05/11",
+<<<<<<< Updated upstream
     "description":"",
     "photo_url": "https://images.unsplash.com/photo-1535241749838-299277b6305f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MzE4fERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60"
+=======
+    "photo_url": "https://images.unsplash.com/photo-1535241749838-299277b6305f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MzE4fERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60",
+    "description": "Siberian Husky female mix with a sweet young care free attitude, loving and friendly with others"
+>>>>>>> Stashed changes
 },
 {
     "pet_name": "Hoppy",
@@ -707,8 +978,13 @@
     "gender": "female",
     "arrival_date": "2023/03/22",
     "current_date": "2023/05/11",
+<<<<<<< Updated upstream
     "description":"",
     "photo_url": "https://images.unsplash.com/photo-1623686070581-5d2eb8187fc2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MzEzfERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60"
+=======
+    "photo_url": "https://images.unsplash.com/photo-1623686070581-5d2eb8187fc2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MzEzfERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60",
+    "description": "Siberian Husky female mix with a sweet young care free attitude, loving and friendly with others"
+>>>>>>> Stashed changes
 },
 {
     "pet_name": "Hippie",
@@ -717,8 +993,13 @@
     "gender": "male",
     "arrival_date": "2023/08/16",
     "current_date": "2023/05/11",
+<<<<<<< Updated upstream
     "description":"",
     "photo_url": "https://images.unsplash.com/photo-1628103833085-ce37a6c335b1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8Mjg5fERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60"
+=======
+    "photo_url": "https://images.unsplash.com/photo-1628103833085-ce37a6c335b1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8Mjg5fERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60",
+    "description": "Siberian Husky female mix with a sweet young care free attitude, loving and friendly with others"
+>>>>>>> Stashed changes
 },
 {
     "pet_name": "Snowflake",
@@ -727,8 +1008,13 @@
     "gender": "female",
     "arrival_date": "2023/04/18",
     "current_date": "2023/05/11",
+<<<<<<< Updated upstream
     "description":"",
     "photo_url": "https://images.unsplash.com/photo-1596982061390-8601a98fb501?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8Mjk1fERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60"
+=======
+    "photo_url": "https://images.unsplash.com/photo-1596982061390-8601a98fb501?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8Mjk1fERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60",
+    "description": "Siberian Husky female mix with a sweet young care free attitude, loving and friendly with others"
+>>>>>>> Stashed changes
 },
 {
     "pet_name": "Cutie",
@@ -737,8 +1023,13 @@
     "gender": "male",
     "arrival_date": "2023/04/16",
     "current_date": "2023/05/11",
+<<<<<<< Updated upstream
     "description":"",
     "photo_url": "https://images.unsplash.com/photo-1636096034623-1d3254303038?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MzA4fERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60"
+=======
+    "photo_url": "https://images.unsplash.com/photo-1636096034623-1d3254303038?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MzA4fERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60",
+    "description": "Siberian Husky female mix with a sweet young care free attitude, loving and friendly with others"
+>>>>>>> Stashed changes
 },
 {
     "pet_name": "Frank",
@@ -747,8 +1038,13 @@
     "gender": "female",
     "arrival_date": "2023/04/19",
     "current_date": "2023/05/11",
+<<<<<<< Updated upstream
     "description":"",
     "photo_url": "https://images.unsplash.com/photo-1518796745738-41048802f99a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MzAxfERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60"
+=======
+    "photo_url": "https://images.unsplash.com/photo-1518796745738-41048802f99a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MzAxfERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60",
+    "description": "Siberian Husky female mix with a sweet young care free attitude, loving and friendly with others"
+>>>>>>> Stashed changes
 },
 {
     "pet_name": "Brownie",
@@ -757,8 +1053,13 @@
     "gender": "female",
     "arrival_date": "2023/08/16",
     "current_date": "2023/05/11",
+<<<<<<< Updated upstream
     "description":"",
     "photo_url": "https://images.unsplash.com/25/puppy-love.jpg?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTc2fERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60"
+=======
+    "photo_url": "https://images.unsplash.com/25/puppy-love.jpg?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTc2fERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60",
+    "description": "Siberian Husky female mix with a sweet young care free attitude, loving and friendly with others"
+>>>>>>> Stashed changes
 },
 {
     "pet_name": "Honey",
@@ -767,8 +1068,13 @@
     "gender": "female",
     "arrival_date": "2023/04/18",
     "current_date": "2023/05/11",
+<<<<<<< Updated upstream
     "description":"",
     "photo_url": "https://images.unsplash.com/photo-1590521757492-6097d5aa10f5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MzA1fERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60"
+=======
+    "photo_url": "https://images.unsplash.com/photo-1590521757492-6097d5aa10f5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MzA1fERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60",
+    "description": "Siberian Husky female mix with a sweet young care free attitude, loving and friendly with others"
+>>>>>>> Stashed changes
 },
 {
     "pet_name": "Hennery",
@@ -777,8 +1083,13 @@
     "gender": "male",
     "arrival_date": "2023/04/18",
     "current_date": "2023/05/11",
+<<<<<<< Updated upstream
     "description":"",
     "photo_url": "https://images.unsplash.com/photo-1589600869011-d2e34471e7a1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MjB8RG9FUk5MQkhqdmd8fGVufDB8fHx8&auto=format&fit=crop&w=700&q=60"
+=======
+    "photo_url": "https://images.unsplash.com/photo-1589600869011-d2e34471e7a1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MjB8RG9FUk5MQkhqdmd8fGVufDB8fHx8&auto=format&fit=crop&w=700&q=60",
+    "description": "Siberian Husky female mix with a sweet young care free attitude, loving and friendly with others"
+>>>>>>> Stashed changes
 },
 {
     "pet_name": "Liz",
@@ -787,8 +1098,13 @@
     "gender": "female",
     "arrival_date": "2023/08/16",
     "current_date": "2023/05/11",
+<<<<<<< Updated upstream
     "description":"",
     "photo_url": "https://images.unsplash.com/photo-1504450874802-0ba2bcd9b5ae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MjF8RG9FUk5MQkhqdmd8fGVufDB8fHx8&auto=format&fit=crop&w=700&q=60"
+=======
+    "photo_url": "https://images.unsplash.com/photo-1504450874802-0ba2bcd9b5ae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MjF8RG9FUk5MQkhqdmd8fGVufDB8fHx8&auto=format&fit=crop&w=700&q=60",
+    "description": "Siberian Husky female mix with a sweet young care free attitude, loving and friendly with others"
+>>>>>>> Stashed changes
 },
 {
     "pet_name": "Red",
@@ -797,8 +1113,13 @@
     "gender": "female",
     "arrival_date": "2023/03/30",
     "current_date": "2023/05/11",
+<<<<<<< Updated upstream
     "description":"",
     "photo_url": "https://images.unsplash.com/photo-1622042410500-89293130193d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTh8RG9FUk5MQkhqdmd8fGVufDB8fHx8&auto=format&fit=crop&w=700&q=60"
+=======
+    "photo_url": "https://images.unsplash.com/photo-1622042410500-89293130193d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTh8RG9FUk5MQkhqdmd8fGVufDB8fHx8&auto=format&fit=crop&w=700&q=60",
+    "description": "Siberian Husky female mix with a sweet young care free attitude, loving and friendly with others"
+>>>>>>> Stashed changes
 },
 {
     "pet_name": "Gecko",
@@ -807,8 +1128,13 @@
     "gender": "male",
     "arrival_date": "2023/05/10",
     "current_date": "2023/05/11",
+<<<<<<< Updated upstream
     "description":"",
     "photo_url": "https://images.unsplash.com/photo-1615798763618-183906cd14b2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTl8RG9FUk5MQkhqdmd8fGVufDB8fHx8&auto=format&fit=crop&w=700&q=60"
+=======
+    "photo_url": "https://images.unsplash.com/photo-1615798763618-183906cd14b2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTl8RG9FUk5MQkhqdmd8fGVufDB8fHx8&auto=format&fit=crop&w=700&q=60",
+    "description": "Siberian Husky female mix with a sweet young care free attitude, loving and friendly with others"
+>>>>>>> Stashed changes
 },
 {
     "pet_name": "Slick",
@@ -817,8 +1143,13 @@
     "gender": "male",
     "arrival_date": "2023/08/16",
     "current_date": "2023/05/11",
+<<<<<<< Updated upstream
     "description":"",
     "photo_url": "https://images.unsplash.com/photo-1555455955-c2e1feb6f81c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MjR8RG9FUk5MQkhqdmd8fGVufDB8fHx8&auto=format&fit=crop&w=700&q=60"
+=======
+    "photo_url": "https://images.unsplash.com/photo-1555455955-c2e1feb6f81c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MjR8RG9FUk5MQkhqdmd8fGVufDB8fHx8&auto=format&fit=crop&w=700&q=60",
+    "description": "Siberian Husky female mix with a sweet young care free attitude, loving and friendly with others"
+>>>>>>> Stashed changes
 },
 {
     "pet_name": "Greeny",
@@ -827,8 +1158,13 @@
     "gender": "female",
     "arrival_date": "2023/04/16",
     "current_date": "2023/05/11",
+<<<<<<< Updated upstream
     "description":"",
     "photo_url": "https://images.unsplash.com/photo-1472645977521-95bbf4f0a748?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MjJ8RG9FUk5MQkhqdmd8fGVufDB8fHx8&auto=format&fit=crop&w=700&q=60"
+=======
+    "photo_url": "https://images.unsplash.com/photo-1472645977521-95bbf4f0a748?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MjJ8RG9FUk5MQkhqdmd8fGVufDB8fHx8&auto=format&fit=crop&w=700&q=60",
+    "description": "Siberian Husky female mix with a sweet young care free attitude, loving and friendly with others"
+>>>>>>> Stashed changes
 },
 {
     "pet_name": "Lazy",
@@ -837,8 +1173,13 @@
     "gender": "female",
     "arrival_date": "2023/05/14",
     "current_date": "2023/05/11",
+<<<<<<< Updated upstream
     "description":"",
     "photo_url": "https://images.unsplash.com/photo-1641596488354-94dddf79f4c3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjN8fHNuYWtlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=700&q=60"
+=======
+    "photo_url": "https://images.unsplash.com/photo-1641596488354-94dddf79f4c3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjN8fHNuYWtlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=700&q=60",
+    "description": "Siberian Husky female mix with a sweet young care free attitude, loving and friendly with others"
+>>>>>>> Stashed changes
 },
 {
     "pet_name": "Tod",
@@ -847,8 +1188,13 @@
     "gender": "male",
     "arrival_date": "2023/03/28",
     "current_date": "2023/05/11",
+<<<<<<< Updated upstream
     "description":"",
     "photo_url": "https://images.unsplash.com/photo-1564646350729-b2e5d0f38cad?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8Mjh8RG9FUk5MQkhqdmd8fGVufDB8fHx8&auto=format&fit=crop&w=700&q=60"
+=======
+    "photo_url": "https://images.unsplash.com/photo-1564646350729-b2e5d0f38cad?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8Mjh8RG9FUk5MQkhqdmd8fGVufDB8fHx8&auto=format&fit=crop&w=700&q=60",
+    "description": "Siberian Husky female mix with a sweet young care free attitude, loving and friendly with others"
+>>>>>>> Stashed changes
 },
 {
     "pet_name": "Tim",
@@ -857,8 +1203,13 @@
     "gender": "male",
     "arrival_date": "2023/04/16",
     "current_date": "2023/05/11",
+<<<<<<< Updated upstream
     "description":"",
     "photo_url": "https://images.unsplash.com/photo-1604984938695-709c41f45cf1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8Mjl8RG9FUk5MQkhqdmd8fGVufDB8fHx8&auto=format&fit=crop&w=700&q=60"
+=======
+    "photo_url": "https://images.unsplash.com/photo-1604984938695-709c41f45cf1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8Mjl8RG9FUk5MQkhqdmd8fGVufDB8fHx8&auto=format&fit=crop&w=700&q=60",
+    "description": "Siberian Husky female mix with a sweet young care free attitude, loving and friendly with others"
+>>>>>>> Stashed changes
 },{
     "pet_name": "Shelly",
     "pet_age": "3 Years",
@@ -866,8 +1217,13 @@
     "gender": "female",
     "arrival_date": "2023/04/20",
     "current_date": "2023/05/11",
+<<<<<<< Updated upstream
     "description":"",
     "photo_url": "https://images.unsplash.com/photo-1597162216923-ba6d99390c10?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MjZ8RG9FUk5MQkhqdmd8fGVufDB8fHx8&auto=format&fit=crop&w=700&q=60"
+=======
+    "photo_url": "https://images.unsplash.com/photo-1597162216923-ba6d99390c10?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MjZ8RG9FUk5MQkhqdmd8fGVufDB8fHx8&auto=format&fit=crop&w=700&q=60",
+    "description": "Siberian Husky female mix with a sweet young care free attitude, loving and friendly with others"
+>>>>>>> Stashed changes
 },
 {
     "pet_name": "Michelle",
@@ -876,8 +1232,13 @@
     "gender": "female",
     "arrival_date": "2023/04/19",
     "current_date": "2023/05/11",
+<<<<<<< Updated upstream
     "description":"",
     "photo_url": "https://images.unsplash.com/photo-1585696862208-ca12defa3a78?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MzB8RG9FUk5MQkhqdmd8fGVufDB8fHx8&auto=format&fit=crop&w=700&q=60"
+=======
+    "photo_url": "https://images.unsplash.com/photo-1585696862208-ca12defa3a78?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MzB8RG9FUk5MQkhqdmd8fGVufDB8fHx8&auto=format&fit=crop&w=700&q=60",
+    "description": "Siberian Husky female mix with a sweet young care free attitude, loving and friendly with others"
+>>>>>>> Stashed changes
 },
 {
     "pet_name": "Rocky",
@@ -886,8 +1247,13 @@
     "gender": "male",
     "arrival_date": "2023/08/16",
     "current_date": "2023/05/11",
+<<<<<<< Updated upstream
     "description":"",
     "photo_url": "https://images.unsplash.com/photo-1597776941486-054bf5529210?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MzF8RG9FUk5MQkhqdmd8fGVufDB8fHx8&auto=format&fit=crop&w=700&q=60"
+=======
+    "photo_url": "https://images.unsplash.com/photo-1597776941486-054bf5529210?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MzF8RG9FUk5MQkhqdmd8fGVufDB8fHx8&auto=format&fit=crop&w=700&q=60",
+    "description": "Siberian Husky female mix with a sweet young care free attitude, loving and friendly with others"
+>>>>>>> Stashed changes
 },
 {
     "pet_name": "Tina",
@@ -896,6 +1262,7 @@
     "gender": "female",
     "arrival_date": "2023/04/16",
     "current_date": "2023/05/11",
+<<<<<<< Updated upstream
     "description":"",
     "photo_url": "https://images.unsplash.com/photo-1599185344034-31d207fb69d4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8Mjd8RG9FUk5MQkhqdmd8fGVufDB8fHx8&auto=format&fit=crop&w=700&q=60"
 },
@@ -909,6 +1276,10 @@
     "current_date": "2023/05/11",
     "description":"",
     "photo_url": "https://images.unsplash.com/25/puppy-love.jpg?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTc2fERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60"
+=======
+    "photo_url": "https://images.unsplash.com/photo-1599185344034-31d207fb69d4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8Mjd8RG9FUk5MQkhqdmd8fGVufDB8fHx8&auto=format&fit=crop&w=700&q=60",
+    "description": "Siberian Husky female mix with a sweet young care free attitude, loving and friendly with others"
+>>>>>>> Stashed changes
 },
 {
     "pet_name": "Birdie",
@@ -918,8 +1289,13 @@
     "gender": "female",
     "arrival_date": "2023/04/19",
     "current_date": "2023/05/11",
+<<<<<<< Updated upstream
     "description":"",
     "photo_url": "https://images.unsplash.com/photo-1620694563886-c3a80ec55f41?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTV8RG9FUk5MQkhqdmd8fGVufDB8fHx8&auto=format&fit=crop&w=700&q=60"
+=======
+    "photo_url": "https://images.unsplash.com/photo-1620694563886-c3a80ec55f41?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTV8RG9FUk5MQkhqdmd8fGVufDB8fHx8&auto=format&fit=crop&w=700&q=60",
+    "description": "Siberian Husky female mix with a sweet young care free attitude, loving and friendly with others"
+>>>>>>> Stashed changes
 },
 {
     "pet_name": "Billy",
@@ -929,8 +1305,13 @@
     "gender": "female",
     "arrival_date": "2023/08/16",
     "current_date": "2023/05/11",
+<<<<<<< Updated upstream
     "description":"",
     "photo_url": "https://images.unsplash.com/photo-1493236296276-d17357e28888?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTN8RG9FUk5MQkhqdmd8fGVufDB8fHx8&auto=format&fit=crop&w=700&q=60"
+=======
+    "photo_url": "https://images.unsplash.com/photo-1493236296276-d17357e28888?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTN8RG9FUk5MQkhqdmd8fGVufDB8fHx8&auto=format&fit=crop&w=700&q=60",
+    "description": "Siberian Husky female mix with a sweet young care free attitude, loving and friendly with others"
+>>>>>>> Stashed changes
 }
 
 ]
