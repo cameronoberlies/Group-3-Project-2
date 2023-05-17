@@ -160,6 +160,7 @@
     flex-flow: column wrap;
     align-content: flex-start;
     align-items: center;
+    justify-content: center;
   }
   .pet-species-display {
     color: black;
