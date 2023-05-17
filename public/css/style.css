@@ -61,10 +61,7 @@
     text-align: center;
   }
   
-  nav a:hover {
-    color: var(--secondary);
-    background-color: var(--dark);
-  }
+ 
 
   .gallery {
     flex: 4;
