@@ -13,13 +13,13 @@
     },
     {
         "name": "James",
-        "email": "cameron.oberlies@outlook.com",
+        "email": "example.email@google.com",
         "password": "password123"
         
     },
     {
         "name": "Stephen",
-        "email": "cameron.oberlies@outlook.com",
+        "email": "example.email2@google.com",
         "password": "password123"
         
     }
