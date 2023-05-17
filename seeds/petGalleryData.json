@@ -3,6 +3,7 @@
     {
     "pet_name": "Dede",
     "pet_age": "7 months",
+    "life_cycle": "Puppy",
     "species": "Dog",
     "breed": "Siberian Husky & Shepherd Mix",
     "gender": "female",
@@ -14,6 +15,7 @@
 {
     "pet_name": "Brisket",
     "pet_age": "1 year",
+    "life_cycle": "Young",
     "species": "Dog",
     "breed": "Terrier Mix",
     "gender": "male",
@@ -25,6 +27,7 @@
 {
     "pet_name": "Meatball",
     "pet_age": "2 years",
+    "life_cycle": "Young",
     "species": "Dog",
     "breed": " Husky",
     "gender": "male",
@@ -36,6 +39,7 @@
 {
     "pet_name": "Nelson",
     "pet_age": "6 months",
+    "life_cycle": "Puppy",
     "species": "Dog",
     "breed": " Labrador Retriever Mix",
     "gender": "male",
@@ -47,6 +51,7 @@
 {
     "pet_name": "Mateo",
     "pet_age": "3 years",
+    "life_cycle": "Adult",
     "species": "Dog",
     "breed": "German Shepherd Dog & Siberian Husky Mix ",
     "gender": "male",
@@ -57,6 +62,7 @@
 {
     "pet_name": "Chatfield",
     "pet_age": "4 years",
+    "life_cycle": "Adult",
     "species": "Dog",
     "breed": " Pit Bull",
     "gender": "male",
@@ -67,6 +73,7 @@
 {
     "pet_name": "Valentine",
     "pet_age": "2 years",
+    "life_cycle": "Young",
     "species": "Dog",
     "breed": "Yorkshire Terrier",
     "gender": "female",
@@ -77,6 +84,7 @@
 {
     "pet_name": "Juniper",
     "pet_age": "3 years",
+    "life_cycle": "Adult",
     "species": "Dog",
     "breed": "German Shepherd Dog & American Staffordshire Terrier Mix",
     "gender": "female",
@@ -87,6 +95,7 @@
 {
     "pet_name": "Stoney",
     "pet_age": "3 years",
+    "life_cycle": "Adult",
     "species": "Dog",
     "breed": "Shepherd & Cattle Dog Mix",
     "gender": "male",
@@ -97,6 +106,7 @@
 {
     "pet_name": "Reeses Pieces",
     "pet_age": "8 years",
+    "life_cycle": "Senior",
     "species": "Dog",
     "breed": "Chihuahua Mix",
     "gender": "female",
@@ -108,6 +118,7 @@
 {
     "pet_name": "Gregory",
     "pet_age": "3 years",
+    "life_cycle": "Adult",
     "species": "Dog",
     "breed": "Siberian Husky",
     "gender": "male",
@@ -119,6 +130,7 @@
 {
     "pet_name": "Hawk",
     "pet_age": "5 years",
+    "life_cycle": "Adult",
     "species": "Dog",
     "breed": "Pointer Mix",
     "gender": "male",
@@ -130,6 +142,7 @@
 {
     "pet_name": "Roscoe",
     "pet_age": "6 years",
+    "life_cycle": "Adult",
     "species": "Dog",
     "breed": "Boxer Mix",
     "gender": "male",
@@ -141,6 +154,7 @@
 {
     "pet_name": "Jackie",
     "pet_age": "4 months",
+    "life_cycle": "Puppy",
     "species": "Dog",
     "breed": "Shepherd Sheep Dog Mix",
     "gender": "female",
@@ -151,6 +165,7 @@
 {
     "pet_name": "Fenris",
     "pet_age": "2 years",
+    "life_cycle": "Young",
     "species": "Dog",
     "breed": "Pug",
     "gender": "female",
@@ -161,6 +176,7 @@
 {
     "pet_name": "Coldfoot",
     "pet_age": "3 months",
+    "life_cycle": "Puppy",
     "species": "Dog",
     "breed": "Standard Poodle Mix",
     "gender": "female",
@@ -171,6 +187,7 @@
 {
     "pet_name": "Lucy",
     "pet_age": "1 Year",
+    "life_cycle": "Young",
     "species": "Dog",
     "breed": "Cocker Spaniel Mix",
     "gender": "female",
@@ -181,6 +198,7 @@
 {
     "pet_name": "Lucky",
     "pet_age": "5 months",
+    "life_cycle": "Puppy",
     "species": "Dog",
     "breed": " Husky Mix",
     "gender": "female",
@@ -191,6 +209,7 @@
 {
     "pet_name": "Bucky",
     "pet_age": "4 months",
+    "life_cycle": "Puppy",
     "species": "Dog",
     "breed": " Labrador Retriever Mix",
     "gender": "female",
@@ -201,6 +220,7 @@
 {
     "pet_name": "Buck",
     "pet_age": "5 months",
+    "life_cycle": "Puppy",
     "species": "Dog",
     "breed": " Bull Dog",
     "gender": "male",
@@ -210,6 +230,7 @@
 },{
     "pet_name": "Louie",
     "pet_age": "2 years",
+    "life_cycle": "Young",
     "species": "Dog",
     "breed": "Cattle Dog Mix",
     "gender": "male",
@@ -220,6 +241,7 @@
 {
     "pet_name": "Boo Bear",
     "pet_age": "6 months",
+    "life_cycle": "Puppy",
     "species": "Dog",
     "breed": "  Dachshund Poodle Mix",
     "gender": "male",
@@ -230,6 +252,7 @@
 {
     "pet_name": "Socks",
     "pet_age": "2 years",
+    "life_cycle": "Young",
     "species": "Dog",
     "breed": "Yorkshire & Terrier Mix",
     "gender": "male",
@@ -240,6 +263,7 @@
 {
     "pet_name": "Beauty",
     "pet_age": "1 year",
+    "life_cycle": "Puppy",
     "species": "Dog",
     "breed": "  Golden Retriever Mix",
     "gender": "female",
@@ -250,6 +274,7 @@
 {
     "pet_name": "Joe",
     "pet_age": "2 years",
+    "life_cycle": "Young",
     "species": "Dog",
     "breed": " Terrier Mix",
     "gender": "male",
@@ -259,6 +284,7 @@
 },{
     "pet_name": "Joey",
     "pet_age": "4 years",
+    "life_cycle": "Adult",
     "species": "Dog",
     "breed": " Miniature Schnauzer",
     "gender": "female",
@@ -269,6 +295,7 @@
 {
     "pet_name": "Bucky",
     "pet_age": "4 years",
+    "life_cycle": "Adult",
     "species": "Dog",
     "breed": " Pit Bull & lab Mix",
     "gender": "male",
@@ -279,6 +306,7 @@
 {
     "pet_name": "Dug",
     "pet_age": "4 years",
+    "life_cycle": "Adult",
     "species": "Dog",
     "breed": "Dalmatian",
     "gender": "male",
@@ -289,6 +317,7 @@
 {
     "pet_name": "Lady",
     "pet_age": "4 years",
+    "life_cycle": "Adult",
     "species": "Dog",
     "breed": "  Golden Retriever Mix",
     "gender": "female",
@@ -299,6 +328,7 @@
 {
     "pet_name": "Stud",
     "pet_age": "5 months",
+    "life_cycle": "Puppy",
     "species": "Dog",
     "breed": "Pit Bull & lab Mix",
     "gender": "male",
@@ -309,6 +339,7 @@
 {
     "pet_name": "Basil",
     "pet_age": "1 Year",
+    "life_cycle": "Young",
     "species": "Dog",
     "breed": " Pointer & Terrier Mix",
     "gender": "male",
@@ -319,6 +350,7 @@
 {
     "pet_name": "Judie",
     "pet_age": "5 months",
+    "life_cycle": "Puppy",
     "species": "Dog",
     "breed": "Standard Poodle & Terrier Mix",
     "gender": "female",
@@ -329,6 +361,7 @@
 {
     "pet_name": "Bucky",
     "pet_age": "3 years",
+    "life_cycle": "Adult",
     "species": "Dog",
     "breed": " Russel Terrier German Shepherd Mix",
     "gender": "female",
@@ -339,6 +372,7 @@
 {
     "pet_name": "Jude",
     "pet_age": "3 years",
+    "life_cycle": "Adult",
     "species": "Dog",
     "breed": "American Bulldog & Lab Mix",
     "gender": "female",
@@ -349,6 +383,7 @@
 {
     "pet_name": "James",
     "pet_age": "1 Year",
+    "life_cycle": "Young",
     "species": "Dog",
     "breed": "Yorkshire & Shih Tzu Mix",
     "gender": "male",
@@ -359,6 +394,7 @@
 {
     "pet_name": "Boi",
     "pet_age": "4 months",
+    "life_cycle": "Puppy",
     "species": "Dog",
     "breed": "  Mix",
     "gender": "male",
@@ -369,6 +405,7 @@
 {
     "pet_name": "Blue",
     "pet_age": "5 years",
+    "life_cycle": "Adult",
     "species": "Dog",
     "breed": "Scotty Dog",
     "gender": "female",
@@ -379,6 +416,7 @@
 {
     "pet_name": "Spot",
     "pet_age": "3 years",
+    "life_cycle": "Adult",
     "species": "Dog",
     "breed": "Bull Terrier",
     "gender": "female",
@@ -389,6 +427,7 @@
 {
     "pet_name": "Bucky",
     "pet_age": "4 months",
+    "life_cycle": "Puppy",
     "species": "Dog",
     "breed": " Labrador Retriever Mix",
     "gender": "female",
@@ -398,6 +437,7 @@
 },{
     "pet_name": "Sky",
     "pet_age": "3 years",
+    "life_cycle": "Adult",
     "species": "Dog",
     "breed": "Pointer & Hound Mix",
     "gender": "female",
@@ -408,6 +448,7 @@
 {
     "pet_name": "Russel",
     "pet_age": "5 Years",
+    "life_cycle": "Adult",
     "species": "Dog",
     "breed": "German Shepherd Dog & American Staffordshire Terrier Mix",
     "gender": "male",
@@ -418,6 +459,7 @@
 {
     "pet_name": "Susie",
     "pet_age": "3 months",
+    "life_cycle": "Puppy",
     "species": "Dog",
     "breed": "Poodle & Shih Tzu Mix",
     "gender": "female",
@@ -428,6 +470,7 @@
 {
     "pet_name": "Buster",
     "pet_age": "4 months",
+    "life_cycle": "Puppy",
     "species": "Dog",
     "breed": "Shepherd & Pointer Mix",
     "gender": "female",
@@ -437,7 +480,8 @@
 },
 {
     "pet_name": "Buddy",
-    "pet_age": 0.8,
+    "pet_age": "8 months",
+    "life_cycle": "Puppy",
     "species": "Dog",
     "breed": "Terrier & Shih Tzu Mix",
     "gender": "male",
@@ -466,6 +510,7 @@
     "pet_name": "Babe",
     "pet_age": "2 years",
     "species": "Dog",
+    "life_cycle": "Young",
     "breed": " Labrador Retriever Mix",
     "gender": "female",
     "arrival_date": "2023/04/30",
@@ -650,7 +695,8 @@
     "gender": "female",
     "arrival_date": "2023/04/19",
     "current_date": "2023/05/11",
-    "photo_url": "https://images.unsplash.com/photo-1518796745738-41048802f99a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MzAxfERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60"
+    "photo_url": "https://images.unsplash.com/photo-1518796745738-41048802f99a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MzAxfERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60",
+    "description": ""
 },
 {
     "pet_name": "Brownie",
