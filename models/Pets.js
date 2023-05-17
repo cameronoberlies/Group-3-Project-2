@@ -18,7 +18,7 @@ Pets.init(
     },
 
     pet_age: {
-        type: DataTypes.DECIMAL(10,2),
+        type: DataTypes.STRING,
         allowNull: false
     },
 
@@ -47,6 +47,17 @@ Pets.init(
         type: DataTypes.DATE,
         allowNull: false
     },
+    photo_url: {
+      type: DataTypes.STRING,
+      allowNull: true
+    }
+    // user_id: {
+    //   type: DataTypes.INTEGER,
+    //   references: {
+    //     model: 'user',
+    //     key: 'id'
+    //   },
+    // },
   },
     {sequelize,
     timestamps: false,

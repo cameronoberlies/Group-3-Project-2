@@ -1,11 +1,17 @@
-{{#each pets as |pet| }}
-<div class="row align-center mb-5">
-  <div class="col-md-6">
-    <h2>{{pet.pet_name}}</h2>
-  </div>
-  <div class="col-md-6">
-    
-    <a href="/pet/{{pet.id}}"><img src="{{ pet.photo_url}}" /></a>
+<div class="container">
+  <div class="row">
+    {{#each pets as |pet|}}
+    <div class="col-md-4">
+      <div class="card" style="width: 18rem;">
+        <div class="card-body">
+          <a href="/pet/{{pet.id}}">
+            <img class="card-img-top" src="{{pet.photo_url}}" />
+          </a>
+          <h2>{{pet.pet_name}}</h2>
+          <h2>{{pet.breed}}</h2>
+        </div>
+      </div>
+    </div>
+    {{/each}}
   </div>
 </div>
-{{/each}}

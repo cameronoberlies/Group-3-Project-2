@@ -63,7 +63,9 @@ router.post('/login', async (req, res) => {
       where: {
         email: req.body.email,
       },
+
     });
+    console.log(dbUserData);
 
     if (!dbUserData) {
       res

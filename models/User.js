@@ -18,7 +18,7 @@ User.init(
     },
     username: {
       type: DataTypes.STRING,
-      allowNull: false
+      allowNull: true,
     },
     email: {
       type: DataTypes.STRING,
@@ -45,13 +45,7 @@ User.init(
       allowNull: true,
 
     },
-    user_id: {
-      type: DataTypes.INTEGER,
-      references: {
-        model: 'pets',
-        key: 'id'
-      },
-    },
+   
   },
   {
     hooks: {
