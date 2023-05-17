@@ -16,10 +16,15 @@ petGallery.init(
         type: DataTypes.STRING,
         allowNull: false
     },
-g
+
     pet_age: {
-        type: DataTypes.INTEGER,
+        type: DataTypes.STRING,
         allowNull: false
+    },
+
+    life_cycle: {
+        type: DataTypes.STRING,
+        allowNull: true
     },
 
     species: {
@@ -35,6 +40,10 @@ g
     current_date: {
         type: DataTypes.DATE,
         allowNull: false
+    },
+    description: {
+        type: DataTypes.STRING,
+        allowNull: true
     }
 
 
