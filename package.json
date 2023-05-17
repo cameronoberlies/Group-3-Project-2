@@ -27,7 +27,7 @@
     "express": "^4.18.2",
     "express-handlebars": "^7.0.7",
     "express-session": "^1.17.3",
-    "fullcalendar": "^6.1.7",
+    "fullcalendar-scheduler": "^6.1.7",
     "handlebars": "^4.7.7",
     "jshint": "^2.13.6",
     "mysql2": "^3.3.0",
