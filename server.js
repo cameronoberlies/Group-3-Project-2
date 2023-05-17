@@ -25,6 +25,11 @@ const sess = {
   
 };
 
+//cookie parser
+var cookieParser = require('cookie-parser');
+app.use(cookieParser());
+//cookie parser
+
 app.use(session(sess));
 
 const hbs = exphbs.create({ helpers });
