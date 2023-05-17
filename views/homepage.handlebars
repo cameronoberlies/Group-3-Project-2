@@ -1,13 +1,19 @@
-{{#each pets as |pet| }}
-<div class="card" style="width: 18rem;">
-  <div class="col-md-6">
-    <h2>{{pet.pet_name}}</h2>
-    <h2>{{pet.breed}}</h2>
+{{#each pets as |pet|}}
+  <div class ="body col-4">
+    <div class="card" style="width: 18rem;">
+    <div class="card-body">
+      <div>
+
+        <a href="/pet/{{pet.id}}"><img
+            class="card-img-top"
+            src="{{pet.photo_url}}"
+          /></a>
+
+        <h2>{{pet.pet_name}}</h2>
+        <h2>{{pet.breed}}</h2>
+      </div>
+    </div>
 
   </div>
-  <div class="col-md-6">
-    
-    <a href="/pet/{{pet.id}}"><img class="card-img-top" src="{{ pet.photo_url}}" /></a>
   </div>
-</div>
 {{/each}}
