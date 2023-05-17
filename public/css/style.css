@@ -166,6 +166,9 @@
   .pet-species-display {
     color: black;
     font-size: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
   }
 #signup-title {
   display: flex;
@@ -175,5 +178,11 @@
 .card-img-top {
   height: 350px;
   width: 350px;
+}
+
+.card-img-details {
+  height: 350px;
+  width: 350px;
+
 }
   
