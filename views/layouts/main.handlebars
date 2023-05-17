@@ -13,8 +13,22 @@
     
 </head>
 <body>
-   <header>
-    <h1>Adopt a Dog!</h1>
+    <header style="position: relative;">
+    <h1 style="float: left;">Adopt a Pet!</h1>
+    <!-- If the user is logged in, show a logout button -->
+    {{#if loggedIn}}
+    <button id="logout" class="btn btn-primary btn-sm" type="button" style="position: absolute; top: 0; right: 0;">Logout</button>
+    {{else}}
+    <!-- Otherwise, show a link to login -->
+    <div style="position: absolute; top: 0; right: 0;">
+        <button type="button" class="btn btn-primary btn-sm">
+            <a href="/login">Login</a>
+        </button>
+        <button type="button" class="btn btn-primary btn-sm">
+            <a href="/signup">Signup</a>
+        </button>
+    </div>
+    {{/if}}
    </header>
    <nav class ="navbar navbar-expand-lg bg-warning">
     
@@ -22,16 +36,7 @@
         <a href="/">Home</a>
     </button>
     <!-- If the user is logged in, show a logout button -->
-    {{#if loggedIn}}
-    <button id="logout" class="btn-no-style">Logout</button>
-    {{else}}
-    <!-- Otherwise, show a link to login -->
-    <button class="btn-no-style">
-        <a href="/login">Login</a>
-    </button>
-    <button class="btn-no-style">
-        <a href="/signup">Signup</a>
-    </button>
+    
     <button class="btn-no-style">
         <a href="/favorites">Favorites</a>
     </button>
@@ -44,7 +49,7 @@
     <button class="btn-no-style">
         <a href="/contactus">Contact Us</a>
     </button>
-    {{/if}}
+    
     
   </nav>
   <main>
