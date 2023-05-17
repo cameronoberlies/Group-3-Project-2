@@ -76,6 +76,41 @@ router.get('/signup', (req, res) => {
   res.render('signup'); 
 });
 
+router.get('/contactus', (req, res) => {
+  if (req.session.loggedIn) {
+    res.redirect('/');
+    return;
+  }
+  // renders the contactus handlebars
+  res.render('contactus'); 
+});
+
+router.get('/favorites', (req, res) => {
+  if (req.session.loggedIn) {
+    res.redirect('/');
+    return;
+  }
+  // renders the favorites handlebars
+  res.render('favorites'); 
+});
+
+router.get('/volunteer', (req, res) => {
+  if (req.session.loggedIn) {
+    res.redirect('/');
+    return;
+  }
+  // renders the volunteer handlebars
+  res.render('volunteer'); 
+});
+
+router.get('/foster', (req, res) => {
+  if (req.session.loggedIn) {
+    res.redirect('/');
+    return;
+  }
+  // renders the foster handlebars
+  res.render('foster'); 
+});
 // Login route
 router.get('/login', (req, res) => {
   // If the user is already logged in, redirect to the homepage
