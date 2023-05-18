@@ -20,6 +20,9 @@
   },
   "homepage": "https://github.com/cameronoberlies/Group-3-Project-2#readme",
   "dependencies": {
+    "@fullcalendar/core": "^6.1.7",
+    "@fullcalendar/daygrid": "^6.1.7",
+    "@fullcalendar/interaction": "^6.1.7",
     "bcrypt": "^5.1.0",
     "bootstrap-icons": "^1.10.5",
     "connect-session-sequelize": "^7.1.6",
