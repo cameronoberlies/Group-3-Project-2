@@ -1,71 +1,65 @@
 const router = require('express').Router();
 const { Pets, User } = require('../models');
 
-router.get('/', async (req, res) => {
-    try {
-        const dbPetData = await Pets.findAll();
-            // include: [
-            //     {
-            //         model: Pets,
-            //         attributes: ['id', 'pet_name','pet_age','species', 'breed', 'gender', 'arrival_date', 'current_date'],
-            //     },
-            // ],
-            
-        
 
-        const pets = dbPetData.map((pet) => 
-        pet.get({ plain: true })
-        );
-            
-        
-        res.render('homepage', {
-            pets,
-            loggedIn: req.session.loggedIn,
-        });
-    } catch (err) {
-        console.log(err);
-        res.status(500).json(err);
-    }
+router.get('/home', async (req, res) => {
+  try {
+    const dbPetData = await Pets.findAll();
+   
+    const pets = dbPetData.map((pet) =>
+      pet.get({ plain: true })
+    );
+
+    res.render('homepage', {
+      pets,
+      loggedIn: req.session.loggedIn,
+    });
+  } catch (err) {
+    console.log(err);
+    res.status(500).json(err);
+  }
 })
 
 // GET one pet
 router.get('/pet/:id', async (req, res) => {
-    try {
-      const dbPetData = await Pets.findByPk(req.params.id);
-        // include: [
-        //   {
-        //     model: Pets,
-        //     attributes: [
-        //       'id',
-        //       'pet_name',
-        //       'pet_age',
-        //       'species',
-        //       'breed',
-        //       'gender',
-        //       'arrival_date',
-        //       'current_date',
-        //       'photo_url'
-        //     ],
-        //   },
-        // ],
-      
+  try {
+    const dbPetData = await Pets.findByPk(req.params.id);
+    // include: [
+    //   {
+    //     model: Pets,
+    //     attributes: [
+    //       'id',
+    //       'pet_name',
+    //       'pet_age',
+    //       'species',
+    //       'breed',
+    //       'gender',
+    //       'arrival_date',
+    //       'current_date',
+    //       'photo_url'
+    //     ],
+    //   },
+    // ],
 
-      if (dbPetData === null) {
-       res.status(404).json({ error: 'Pet not found' });
-        return;
-    }
-  
-      const petData = dbPetData.get({ plain: true });
-      res.render('pet-details', {
-        ...petData,
-      });
-    } catch (err) {
-      console.log(err);
-      res.status(500).json(err);
-    }
-  });
 
-  // signup route 
+    if (dbPetData === null) {
+      res.status(404).json({ error: 'Pet not found' });
+      return;
+    }
+
+    const petData = dbPetData.get({ plain: true });
+    // lets log to the console what petData actually looks like
+    console.log('------- petData is', petData);
+    res.render('pet-details', {
+      ...petData,
+    });
+  } catch (err) {
+    console.log(err);
+    res.status(500).json(err);
+  }
+});
+
+// si
 
 router.get('/signup', (req, res) => {
   if (req.session.loggedIn) {
@@ -73,46 +67,50 @@ router.get('/signup', (req, res) => {
     return;
   }
   // renders the signup handlebars
-  res.render('signup'); 
+  res.render('signup',);
 });
 
 router.get('/contactus', (req, res) => {
-  if (req.session.loggedIn) {
+  if (!req.session.loggedIn) {
     res.redirect('/');
     return;
   }
   // renders the contactus handlebars
-  res.render('contactus'); 
+  res.render('contactus', {loggedIn: req.session.loggedIn});
 });
 
+// TODO create a favorites POST, add to database using a is_favorites field, alt: add a fav field to user database/table. add all of pet_id in a comma seperated value - applies to voluterr.js as well 
+
 router.get('/favorites', (req, res) => {
-  if (req.session.loggedIn) {
+  // TODO create a GET all pets is_favorites to true send to page
+  if (!req.session.loggedIn) {
     res.redirect('/');
     return;
   }
   // renders the favorites handlebars
-  res.render('favorites'); 
+  res.render('favorites', {loggedIn: req.session.loggedIn});
 });
 
 router.get('/volunteer', (req, res) => {
-  if (req.session.loggedIn) {
+  if (!req.session.loggedIn) {
     res.redirect('/');
     return;
   }
   // renders the volunteer handlebars
-  res.render('volunteer'); 
+  res.render('volunteer', {loggedIn: req.session.loggedIn});
 });
 
 router.get('/foster', (req, res) => {
-  if (req.session.loggedIn) {
+  if (!req.session.loggedIn) {
     res.redirect('/');
     return;
   }
   // renders the foster handlebars
-  res.render('foster'); 
+  res.render('foster', {loggedIn: req.session.loggedIn});
 });
+
 // Login route
-router.get('/login', (req, res) => {
+router.get('/', (req, res) => {
   // If the user is already logged in, redirect to the homepage
   if (req.session.loggedIn) {
     res.redirect('/');
@@ -121,5 +119,23 @@ router.get('/login', (req, res) => {
   // Otherwise, render the 'login' template
   res.render('login');
 });
+
+//cookies
+var express = require('express')
+var cookieParser = require('cookie-parser')
+
+var app = express()
+//app.use(cookieParser())
+
+app.get('/', function (req, res) {
+  // Cookies that have not been signed
+  console.log('Cookies: ', req.cookies)
+
+  // Cookies that have been signed
+  console.log('Signed Cookies: ', req.signedCookies)
+})
+
+app.listen(8080)
+//cookies
 
 module.exports = router;
