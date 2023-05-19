@@ -13,24 +13,7 @@
     integrity="sha384-ENjdO4Dr2bkBIFxQpeoTz1HIcje39Wm4jDKdf19U8gI4ddQ3GYNS7NTKfAdVQSZe"
     crossorigin="anonymous"></script>
   <script src='https://cdn.jsdelivr.net/npm/fullcalendar@6.1.7/index.global.min.js'></script>
-  <script>
-
-    document.addEventListener('DOMContentLoaded', function () {
-      var calendarEl = document.getElementById('calendar');
-      var calendar = new FullCalendar.Calendar(calendarEl, {
-        initialView: 'dayGridMonth',
-          events: [
-    { // this object will be "parsed" into an Event Object
-      title: 'The Title', // a property!
-      start: '2023-05-23', // a property!
-      end: '2023-05-24' // a property! ** see important note below about 'end' **
-    }
-  ]
-      });
-      calendar.render();
-    });
-
-  </script>
+  <script src="/js/calendar.js"></script>
 
 
 </head>
