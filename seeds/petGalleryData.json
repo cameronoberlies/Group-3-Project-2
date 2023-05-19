@@ -1,232 +1,161 @@
 [
-    
     {
-    "pet_name": "Dede",
-    "pet_age": "7 months",
-    "species": "Dog",
-    "breed": "Siberian Husky & Shepherd Mix",
-    "gender": "female",
-    "arrival_date": "2023/01/25",
-    "current_date": "2023/05/11",
-    "photo_url": "https://images.pexels.com/photos/2853422/pexels-photo-2853422.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-},
-
-{
-    "pet_name": "Brisket",
-    "pet_age": "1 year",
-    "species": "Dog",
-    "breed": "Terrier Mix",
-    "gender": "male",
-    "arrival_date": "2023/05/04",
-    "current_date": "2023/05/11",
-    "photo_url": "https://images.unsplash.com/photo-1543490258-4131d44881d7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2226&q=80"
-},
-
-{
-    "pet_name": "Meatball",
-    "pet_age": "2 years",
-    "species": "Dog",
-    "breed": " Husky",
-    "gender": "male",
-    "arrival_date": "2022/11/15",
-    "current_date": "2023/05/11",
-    "photo_url": "https://images.unsplash.com/photo-1629246999700-1e7ad7a1ba03?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8aHVza3l8ZW58MHx8MHx8&auto=format&fit=crop&w=700&q=60"
-    
-},
-{
-    "pet_name": "Nelson",
-    "pet_age": "6 months",
-    "species": "Dog",
-    "breed": " Labrador Retriever Mix",
-    "gender": "male",
-    "arrival_date": "2023/02/23",
-    "current_date": "2023/05/11",
-    "photo_url": "https://images.unsplash.com/photo-1611003229186-80e40cd54966?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTgwfERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60"
-
-
-},
-{
-    "pet_name": "Mateo",
-    "pet_age": "3 years",
-    "species": "Dog",
-    "breed": "German Shepherd Dog & Siberian Husky Mix ",
-    "gender": "male",
-    "arrival_date": "2022/12/20",
-    "current_date": "2023/05/11",
-    "photo_url": "https://images.unsplash.com/photo-1677758171423-ac943ebb1339?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8Mjd8RG9FUk5MQkhqdmd8fGVufDB8fHx8&auto=format&fit=crop&w=700&q=60"
-},
-{
-    "pet_name": "Chatfield",
-    "pet_age": "4 years",
-    "species": "Dog",
-    "breed": " Pit Bull",
-    "gender": "male",
-    "arrival_date": "2022/12/09",
-    "current_date": "2023/05/11",
-    "photo_url": "https://images.unsplash.com/photo-1668485095742-38885734bae4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8cGl0JTIwYnVsbHN8ZW58MHx8MHx8&auto=format&fit=crop&w=700&q=60"
-},
-{
-    "pet_name": "Valentine",
-    "pet_age": "2 years",
-    "species": "Dog",
-    "breed": "Yorkshire Terrier",
-    "gender": "female",
-    "arrival_date": "2023/02/13",
-    "current_date": "2023/05/11",
-    "photo_url": "https://images.unsplash.com/photo-1526440847959-4e38e7f00b04?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8WW9ya3NoaXJlJTIwVGVycmllcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=700&q=60"
-},
-{
-    "pet_name": "Juniper",
-    "pet_age": "3 years",
-    "species": "Dog",
-    "breed": "German Shepherd Dog & American Staffordshire Terrier Mix",
-    "gender": "female",
-    "arrival_date": "2023/01/02",
-    "current_date": "2023/05/11",
-    "photo_url": "https://images.unsplash.com/photo-1504447914074-080070298e64?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8ODh8RG9FUk5MQkhqdmd8fGVufDB8fHx8&auto=format&fit=crop&w=700&q=60"
-},
-{
-    "pet_name": "Stoney",
-    "pet_age": "3 years",
-    "species": "Dog",
-    "breed": "Shepherd & Cattle Dog Mix",
-    "gender": "male",
-    "arrival_date": "2022/09/12",
-    "current_date": "2023/05/11",
-    "photo_url": "https://images.unsplash.com/photo-1545328951-d483a3667ed0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTIyfERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60"
-},
-{
-    "pet_name": "Reeses Pieces",
-    "pet_age": "8 years",
-    "species": "Dog",
-    "breed": "Chihuahua Mix",
-    "gender": "female",
-    "arrival_date": "2022/08/08",
-    "current_date": "2023/05/11",
-    "photo_url": "https://images.unsplash.com/photo-1526579903323-327e1c2d0b27?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8ODd8RG9FUk5MQkhqdmd8fGVufDB8fHx8&auto=format&fit=crop&w=700&q=60"
-
-},
-{
-    "pet_name": "Gregory",
-    "pet_age": "3 years",
-    "species": "Dog",
-    "breed": "Siberian Husky",
-    "gender": "male",
-    "arrival_date": "2023/03/16",
-    "current_date": "2023/05/11",
-    "photo_url": "https://images.unsplash.com/photo-1568564321589-3e581d074f9b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTg1fERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60"
-    
-},
-{
-    "pet_name": "Hawk",
-    "pet_age": "5 years",
-    "species": "Dog",
-    "breed": "Pointer Mix",
-    "gender": "male",
-    "arrival_date": "2023/04/24",
-    "current_date": "2023/05/11",
-    "photo_url": "https://images.unsplash.com/photo-1512230074824-4b960a508372?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fFBvaW50ZXIlMjBNaXh8ZW58MHx8MHx8&auto=format&fit=crop&w=700&q=60"
-
-},
-{
-    "pet_name": "Roscoe",
-    "pet_age": "6 years",
-    "species": "Dog",
-    "breed": "Boxer Mix",
-    "gender": "male",
-    "arrival_date": "2023/01/22",
-    "current_date": "2023/05/11",
-    "photo_url": "https://images.unsplash.com/photo-1660760608993-6549f35154eb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8Qm94ZXIlMjBNaXh8ZW58MHx8MHx8&auto=format&fit=crop&w=700&q=60"
-    
-},
-{
-    "pet_name": "Jackie",
-    "pet_age": "4 months",
-    "species": "Dog",
-    "breed": "Shepherd Sheep Dog Mix",
-    "gender": "female",
-    "arrival_date": "2023/03/03",
-    "current_date": "2023/05/11",
-    "photo_url": "https://images.unsplash.com/photo-1548858565-461b87144b6a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTA1fERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60"
-},
-{
-    "pet_name": "Fenris",
-    "pet_age": "2 years",
-    "species": "Dog",
-    "breed": "pug",
-    "gender": "female",
-    "arrival_date": "2023/02/25",
-    "current_date": "2023/05/11",
-    "photo_url": "https://images.unsplash.com/photo-1553698217-934b000f1f00?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTAyfERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60"
-},
-{
-    "pet_name": "Coldfoot",
-    "pet_age": "3 months",
-    "species": "Dog",
-    "breed": "Standard Poodle Mix",
-    "gender": "female",
-    "arrival_date": "2023/03/16",
-    "current_date": "2023/05/11",
-    "photo_url": "https://images.unsplash.com/photo-1555325084-b068599743c9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTI2fERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60"
-},
-{
-    "pet_name": "Lucy",
-    "pet_age": 1,
-    "species": "Dog",
-    "breed": "Cocker Spaniel Mix",
-    "gender": "female",
-    "arrival_date": "2023/03/16",
-    "current_date": "2023/05/11",
-    "photo_url": "https://images.unsplash.com/photo-1588943211346-0908a1fb0b01?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTM5fERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60"
-},
-{
-    "pet_name": "Lucky",
-    "pet_age": 0.45,
-    "species": "Dog",
-    "breed": " Husky Mix",
-    "gender": "female",
-    "arrival_date": "2023/03/16",
-    "current_date": "2023/05/11",
-    "photo_url": "https://images.unsplash.com/photo-1526660690293-bcd32dc3b123?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTc3fERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60"
-},
-{
-    "pet_name": "Bucky",
-    "pet_age": 0.45,
-    "species": "Dog",
-    "breed": " Labrador Retriever Mix",
-    "gender": "female",
-    "arrival_date": "2023/08/16",
-    "current_date": "2023/05/11",
-    "photo_url": "https://images.unsplash.com/25/puppy-love.jpg?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTc2fERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60"
-},
-{
-    "pet_name": "Buck",
-    "pet_age": 0.45,
-    "species": "Dog",
-    "breed": " Bull Dog",
-    "gender": "female",
-    "arrival_date": "2023/08/16",
-    "current_date": "2023/05/11",
-    "photo_url": "https://images.unsplash.com/25/puppy-love.jpg?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTc2fERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60"
-},{
-    "pet_name": "Bucky",
-    "pet_age": 0.45,
-    "species": "Dog",
-    "breed": " Labrador Retriever Mix",
-    "gender": "female",
-    "arrival_date": "2023/08/16",
-    "current_date": "2023/05/11",
-    "photo_url": "https://images.unsplash.com/photo-1549775924-433bdc7ea7a9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTc4fERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60"
-},
-{
-    "pet_name": "Bucky",
-    "pet_age": 0.45,
-    "species": "Dog",
-    "breed": " Labrador Retriever Mix",
-    "gender": "female",
-    "arrival_date": "2023/08/16",
-    "current_date": "2023/05/11",
-    "photo_url": "https://images.unsplash.com/25/puppy-love.jpg?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTc2fERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60"
-}
-
+        "pet_name": "Dede",
+        "pet_age": "7 months",
+        "species": "Dog",
+        "breed": "Siberian Husky & Shepherd Mix",
+        "gender": "female",
+        "arrival_date": "2023/01/25",
+        "current_date": "2023/05/11",
+        "photo_url": "https://images.pexels.com/photos/2853422/pexels-photo-2853422.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+        "pet_name": "Brisket",
+        "pet_age": "1 year",
+        "species": "Dog",
+        "breed": "Terrier Mix",
+        "gender": "male",
+        "arrival_date": "2023/05/04",
+        "current_date": "2023/05/11",
+        "photo_url": "https://images.unsplash.com/photo-1543490258-4131d44881d7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2226&q=80"
+    },
+    {
+        "pet_name": "Meatball",
+        "pet_age": "2 years",
+        "species": "Dog",
+        "breed": " Husky",
+        "gender": "male",
+        "arrival_date": "2022/11/15",
+        "current_date": "2023/05/11",
+        "photo_url": "https://images.unsplash.com/photo-1629246999700-1e7ad7a1ba03?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8aHVza3l8ZW58MHx8MHx8&auto=format&fit=crop&w=700&q=60"
+    },
+    {
+        "pet_name": "Nelson",
+        "pet_age": "6 months",
+        "species": "Dog",
+        "breed": " Labrador Retriever Mix",
+        "gender": "male",
+        "arrival_date": "2023/02/23",
+        "current_date": "2023/05/11"
+    },
+    {
+        "pet_name": "Chatfield",
+        "pet_age": "4 years",
+        "species": "Dog",
+        "breed": " Pit Bull",
+        "gender": "male",
+        "arrival_date": "2022/12/09",
+        "current_date": "2023/05/11",
+        "photo_url": "https://images.unsplash.com/photo-1668485095742-38885734bae4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8cGl0JTIwYnVsbHN8ZW58MHx8MHx8&auto=format&fit=crop&w=700&q=60"
+    },
+    {
+        "pet_name": "Valentine",
+        "pet_age": "2 years",
+        "species": "Dog",
+        "breed": "Yorkshire Terrier",
+        "gender": "female",
+        "arrival_date": "2023/02/13",
+        "current_date": "2023/05/11",
+        "photo_url": "https://images.unsplash.com/photo-1526440847959-4e38e7f00b04?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8WW9ya3NoaXJlJTIwVGVycmllcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=700&q=60"
+    },
+    {
+        "pet_name": "Stoney",
+        "pet_age": "3 years",
+        "species": "Dog",
+        "breed": "Shepherd & Cattle Dog Mix",
+        "gender": "male",
+        "arrival_date": "2022/09/12",
+        "current_date": "2023/05/11",
+        "photo_url": "https://images.unsplash.com/photo-1545328951-d483a3667ed0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTIyfERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60"
+    },
+    {
+        "pet_name": "Reeses Pieces",
+        "pet_age": "8 years",
+        "species": "Dog",
+        "breed": "Chihuahua",
+        "gender": "female",
+        "arrival_date": "2022/08/08",
+        "current_date": "2023/05/11",
+        "photo_url": "https://images.unsplash.com/photo-1526579903323-327e1c2d0b27?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8ODd8RG9FUk5MQkhqdmd8fGVufDB8fHx8&auto=format&fit=crop&w=700&q=60"
+    },
+    {
+        "pet_name": "Gregory",
+        "pet_age": "3 years",
+        "species": "Dog",
+        "breed": "Siberian Husky",
+        "gender": "male",
+        "arrival_date": "2023/03/16",
+        "current_date": "2023/05/11",
+        "photo_url": "https://images.unsplash.com/photo-1568564321589-3e581d074f9b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTg1fERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60"
+    },
+    {
+        "pet_name": "Hawk",
+        "pet_age": "5 years",
+        "species": "Dog",
+        "breed": "Pointer Mix",
+        "gender": "male",
+        "arrival_date": "2023/04/24",
+        "current_date": "2023/05/11",
+        "photo_url": "https://images.unsplash.com/photo-1512230074824-4b960a508372?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fFBvaW50ZXIlMjBNaXh8ZW58MHx8MHx8&auto=format&fit=crop&w=700&q=60"
+    },
+    {
+        "pet_name": "Jackie",
+        "pet_age": "4 months",
+        "species": "Dog",
+        "breed": "Shepherd Sheep Dog Mix",
+        "gender": "female",
+        "arrival_date": "2023/03/03",
+        "current_date": "2023/05/11",
+        "photo_url": "https://images.unsplash.com/photo-1548858565-461b87144b6a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTA1fERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60"
+    },
+    {
+        "pet_name": "Fenris",
+        "pet_age": "2 years",
+        "species": "Dog",
+        "breed": "pug",
+        "gender": "female",
+        "arrival_date": "2023/02/25",
+        "current_date": "2023/05/11",
+        "photo_url": "https://images.unsplash.com/photo-1553698217-934b000f1f00?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTAyfERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60"
+    },
+    {
+        "pet_name": "Roscoe",
+        "pet_age": "6 years",
+        "species": "Dog",
+        "breed": "Boxer Mix",
+        "gender": "male",
+        "arrival_date": "2023/01/22",
+        "current_date": "2023/05/11",
+        "photo_url": "https://images.unsplash.com/photo-1660760608993-6549f35154eb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8Qm94ZXIlMjBNaXh8ZW58MHx8MHx8&auto=format&fit=crop&w=700&q=60"
+    },
+    {
+        "pet_name": "Coldfoot",
+        "pet_age": "3 months",
+        "species": "Dog",
+        "breed": "Standard Poodle Mix",
+        "gender": "female",
+        "arrival_date": "2023/03/16",
+        "current_date": "2023/05/11",
+        "photo_url": "https://images.unsplash.com/photo-1555325084-b068599743c9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTI2fERvRVJOTEJIanZnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60"
+    },
+    {
+        "pet_name": "Juniper",
+        "pet_age": "3 years",
+        "species": "Dog",
+        "breed": "German Shepherd Dog & American Staffordshire Terrier Mix",
+        "gender": "female",
+        "arrival_date": "2023/01/02",
+        "current_date": "2023/05/11",
+        "photo_url": "https://images.unsplash.com/photo-1504447914074-080070298e64?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8ODh8RG9FUk5MQkhqdmd8fGVufDB8fHx8&auto=format&fit=crop&w=700&q=60"
+    },
+    {
+        "pet_name": "Mateo",
+        "pet_age": "3 years",
+        "species": "Dog",
+        "breed": "German Shepherd Dog & Siberian Husky Mix ",
+        "gender": "male",
+        "arrival_date": "2022/12/20",
+        "current_date": "2023/05/11",
+        "photo_url": "https://images.unsplash.com/photo-1677758171423-ac943ebb1339?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8Mjd8RG9FUk5MQkhqdmd8fGVufDB8fHx8&auto=format&fit=crop&w=700&q=60"
+    }
 ]

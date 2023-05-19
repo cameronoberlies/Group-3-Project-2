@@ -1,16 +1,12 @@
-<section class="container">
-    <h3 class="pet-species-display">{{pet_name}}</h3>
-    <a href="/pet/{{pet.id}}"><img src="{{photo_url}}" /></a>
-    <div class = "card">
-    
-    <li>{{pet_age}}</li>
-    <li>{{species}}</li>
-    <li>{{breed}}</li>
-    <li>{{gender}}</li>
-    <li>{{arrival_date}}</li>
-        
+
+<div class="card">
+    <div class="card-container">
+        <h3 class="pet-species-display"> Name : {{pet_name}}</h3>
+        <a><img src="{{photo_url}}" id="photo" /></a>
+        <p> Age: {{pet_age}}</p>
+        <p>Species: {{species}}</p>
+        <p>Breed: {{breed}}</p>
+        <p>Gender: {{gender}}</p>
+        <p>Arrival Date: {{arrival_date}}</p>
     </div>
-    
-    
-    
-</section>
+</div>

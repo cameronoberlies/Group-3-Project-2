@@ -1,0 +1,46 @@
+<div class="addPets-card">
+    <h2>Add Pets</h2>
+    <form class="form addPets-form">
+
+        <div class="section-form">
+            <label for="petName">pet name:</label>
+            <input class="form-input" type="text" id="petName" name="petName" />
+
+            <label for="petAge">pet age:</label>
+            <input class="form-input" type="text" id="petAge" name="petAge" />
+
+            <label for="species">species:</label>
+            <input class="form-input" type="text" id="species" />
+
+            <label for="breed">breed:</label>
+            <input class="form-input" type="text" id="breed" />
+        </div>
+
+        <div class="section-form">
+            <label for="gender">gender:</label>
+
+            <div style="display: flex; gap:20px">
+                <input type="radio" id="male" name="gender" value="male">
+                <label for="male">male</label><br>
+                <input type="radio" id="female" name="gender" value="female">
+                <label for="female">female</label>
+            </div>
+
+            <label for="arrival_date">arrival date:</label>
+            <input class="form-input" type="date" id="arrival_date" />
+
+            <label for="current_date">current date:</label>
+            <input class="form-input" type="date" id="current_date" />
+
+            <label for="photo_url">photo url:</label>
+            <input class="form-input" type="text" id="photo_url" />
+
+            <button class="btn btn-primary" type="submit" id="btnAddPets">Add pets</button>
+
+        </div>
+
+    </form>
+</div>
+</div>
+
+<script src="/js/addPets.js"></script>

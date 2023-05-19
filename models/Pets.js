@@ -48,7 +48,7 @@ Pets.init(
         allowNull: false
     },
     photo_url: {
-      type: DataTypes.STRING,
+      type: DataTypes.TEXT,
       allowNull: true
     }
     // user_id: {

@@ -1,27 +1,28 @@
-<div class="container">
-  <div class="row">
+{{#if loggedIn}}
+<div class="column">
 
-    <form class="form search-form">
-      <input placeholder="search pets" id="search">
-      <div class="form-group">
-        <button class="btn btn-primary" type="submit">search</button>
-      </div>
-    </form>
+  <form class="form search-form">
 
-    {{#each pets as |pet|}}
-    <div class="col-md-4">
-      <div class="card" style="width: 18rem;">
-        <div class="card-body">
-          <a href="/pet/{{pet.id}}">
-            <img class="card-img-top" src="{{pet.photo_url}}" />
-          </a>
-          <h2>{{pet.pet_name}}</h2>
-          <h2>{{pet.breed}}</h2>
-        </div>
+    <input placeholder="search pets" id="search">
+    <button class="btn btn-primary" type="submit" id="searchbtn">search</button>
+
+  </form>
+
+  <div class="container">
+    {{#each pets as |pet| }}
+    <div class="card">
+      <div class="card-container">
+        <h2>{{pet.pet_name}}</h2>
+        <p id="paragraph">{{pet.breed}}</p>
+        <a href="/pet/{{pet.id}}"> <img src="{{ pet.photo_url}}" id="photo" /> </a>
       </div>
     </div>
     {{/each}}
   </div>
+
 </div>
+{{/if}}
+
+
 
 <script src="/js/search.js"></script>
