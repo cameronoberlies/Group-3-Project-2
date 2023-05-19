@@ -106,7 +106,11 @@
     font-weight: bold;
   }
   
+<<<<<<< Updated upstream
    CARDS 
+=======
+  /* CARDS */
+>>>>>>> Stashed changes
   .card {
     margin: 20px;
     flex: 0 1 300px;
@@ -115,7 +119,7 @@
     background-color: var(--light);
     color: var(--dark);
   }
-  */
+  
   .login-card {
     margin: 0 0 20px 0;
     flex: 0 0 50%;
@@ -158,7 +162,7 @@
     padding-left: 100px;
   }
   
-  /* LAYOUT 
+  /* LAYOUT */
   .container {
     display: flex;
     flex-flow: column wrap;
@@ -167,7 +171,7 @@
     justify-content: center;
   }
 
-  */
+  
   .pet-species-display {
     color: black;
     font-size: 50px;
