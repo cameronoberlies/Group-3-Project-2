@@ -16,6 +16,22 @@ module.exports = {
         new Date(date).getFullYear()
       }`;
     },
+
+    addToFav:(petId) => {
+
+      const response = fetch(`/api/favorites/${petId}`, {
+          method: 'POST',
+          body: JSON.stringify({petId}),
+          headers: { 'Content-Type': 'application/json' },
+        });
+        if (response.ok) {
+          console.log('Okay')
+          ;
+        } else {
+          alert('Failed to sign up.');
+        }
+      }
+  
     //
     
   }

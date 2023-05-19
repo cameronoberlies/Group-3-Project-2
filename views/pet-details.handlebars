@@ -3,6 +3,8 @@
         <div class="card-body">
             <h3 class="pet-species-display">{{pet_name}}</h3>
             <a href="/pet/{{pet.id}}"><img class="card-img-details" src="{{photo_url}}" /></a>
+             <div class="card" style="width: 35rem; text-align: center;">
+                <div class="card-body">
             <ul class="card-text" style="list-style-type: none; padding: 0;">
                 <li>{{pet_age}}</li>
                 <li>{{breed}}</li>
@@ -11,6 +13,8 @@
                 <li>Without a home for: <br> {{duration arrival_date}} days</li>
                 <li>About the pet: {{description}}</li>
             </ul>
+            </div>
+            </div>
         </div>
     </div>
 </div>

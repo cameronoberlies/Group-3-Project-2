@@ -1,8 +1,9 @@
 const router = require('express').Router();
 const { Pets, User, userFavorites } = require('../models');
+const Auth = require('../utils/auth');
 
 
-router.get('/home', async (req, res) => {
+router.get('/home', Auth, async (req, res) => {
   try {
     const dbPetData = await Pets.findAll();
    
@@ -18,6 +19,62 @@ router.get('/home', async (req, res) => {
     console.log(err);
     res.status(500).json(err);
   }
+})
+
+router.post("/addPets", async (req, res) => {
+
+  console.log("data incoming ", req.body)
+  try {
+    const dbPetsData = await Pets.create({
+      pet_name: req.body.pet_name,
+      pet_age: req.body.pet_age,
+      species: req.body.species,
+      breed: req.body.breed,
+      gender: req.body.gender,
+      arrival_date: req.body.arrival_date,
+      current_date: req.body.current_date,
+      photo_url: req.body.photo_url
+    });
+    req.session.save(() => {
+      res.status(200).json(dbPetsData);
+    });
+
+  } catch (err) {
+    console.log(err);
+    res.status(500).json(err);
+  }
+
+})
+
+router.get("/search/:search", async (req, res) => {
+
+  const query = req.params.search.toLowerCase()
+
+  try {
+
+    if (query) {
+
+      const allpets = await Pets.findAll()
+      const result = allpets.filter(
+        obj => obj.pet_name.toLowerCase().includes(query)
+          || obj.breed.toLowerCase().includes(query)
+          || obj.gender.toLowerCase().includes(query)
+          || obj.species.toLowerCase().includes(query)
+          || obj.pet_age.toLowerCase().includes(query)
+      );
+      const searchedpets = result.map((pet) =>
+        pet.get({ plain: true })
+      );
+
+      res.render('search', {
+        searchedpets,
+        loggedIn: req.session.loggedIn,
+      });
+    }
+  } catch (error) {
+    return res.status(400).json({ message: `unable to get pets ${error}` })
+  }
+
 })
 
 // GET one pet
