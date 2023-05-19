@@ -138,17 +138,21 @@ router.get('/contactus', (req, res) => {
 
 // TODO create a favorites POST, add to database using a is_favorites field, alt: add a fav field to user database/table. add all of pet_id in a comma seperated value - applies to voluterr.js as well 
 
-router.get('/favorites', async (req, res) => {
+router.get('/favorites', Auth, async (req, res) => {
   // TODO create a GET all pets is_favorites to true send to page
-  if (!req.session.loggedIn) {
-    res.redirect('/');
-    return;
-  }
+  
+  
   // renders the favorites handlebars
   try {
-    const favoriteData = await Pets.findAll({through:{where:{user_id: req.session.user_id}}})
-    const favorites = favoriteData.map((favorite) => favorite.get({plain: true}))
-    console.log('Success!')
+    const favoriteData = await User.findByPk(req.session.user_id, {
+      include: [
+        {
+          model:Pets, through:userFavorites
+        }
+      ]
+    })
+    const favorites = favoriteData.get({plain: true})
+    console.log(favorites)
     res.render('favorites', {favorites})
   } catch (err) {
     console.log(err);

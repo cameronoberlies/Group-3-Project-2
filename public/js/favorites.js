@@ -1,10 +1,10 @@
-const addToFav = async (petId) => {
-
-    const response = await fetch(`/api/favorites/${petId}`, {
+const addToFav = async (event) => {
+  
+    const response = await fetch(`/api/favorites/${event.target.value}`, {
         method: 'POST',
-        body: JSON.stringify({petId}),
         headers: { 'Content-Type': 'application/json' },
       });
+      console.log(response)
       if (response.ok) {
         console.log('Okay')
         ;
@@ -12,6 +12,6 @@ const addToFav = async (petId) => {
         console.log('Failed to add favorite.');
       }
     }
-    const favoriteBtn = document.getElementById('favorite-btn');
-favoriteBtn.addEventListener('click', addToFav(favoriteBtn.value));
+//     const favoriteBtn = document.getElementById('favorite-btn');
+// favoriteBtn.addEventListener('click', addToFav(favoriteBtn.value));
 
