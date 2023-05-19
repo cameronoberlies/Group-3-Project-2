@@ -1,4 +1,4 @@
-// functuon ifEquals  helps us to compare if two things are eqaul or not ... we can use this function in our views
+// function ifEquals  helps us to compare if two things are equal or not ... we can use this function in our views
 module.exports = {
     ifEquals:function(arg1, arg2, options) {
       return (arg1 == arg2) ? options.fn(this) : options.inverse(this);
@@ -16,6 +16,22 @@ module.exports = {
         new Date(date).getFullYear()
       }`;
     },
+
+    addToFav:(petId) => {
+
+      const response = fetch(`/api/favorites/${petId}`, {
+          method: 'POST',
+          body: JSON.stringify({petId}),
+          headers: { 'Content-Type': 'application/json' },
+        });
+        if (response.ok) {
+          console.log('Okay')
+          ;
+        } else {
+          alert('Failed to sign up.');
+        }
+      }
+  
     //
     
   }

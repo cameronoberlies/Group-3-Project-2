@@ -1,0 +1,17 @@
+<div class="column">
+
+  <div class="container">
+    {{#each searchedpets as |pet| }}
+    <div class="card">
+      <div class="card-container">
+        <h2>{{pet.pet_name}}</h2>
+        <p>{{pet.breed}}</p>
+        <a href="/pet/{{pet.id}}"> <img src="{{ pet.photo_url}}" id="photo" /> </a>
+      </div>
+    </div>
+    {{/each}}
+  </div>
+
+</div>
+
+<script src="/js/search.js"></script>

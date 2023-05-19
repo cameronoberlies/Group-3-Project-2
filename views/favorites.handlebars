@@ -1,5 +1,9 @@
 <div>
 <h1> All Previous Favorited Pets:</h1>
+{{#each favorites as | favorite |}}
+<p>Name: {{favorite.pet_name}}</p>
+{{/each}}
+
 
 </div>
 <script src="/js/favorites.js"></script>

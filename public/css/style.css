@@ -188,4 +188,143 @@
   width: 350px;
 
 }
+/*Abel CSS start*/
+
+.header {
+  display: flex;
+  background-color: #f3ebeb;
+  justify-content: center;
+  gap: 30px;
+  padding: 30px;
+}
+
+.pets {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  flex-direction: column;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+  gap: 10px
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  flex-grow: 4;
+  flex-wrap: wrap;
+
+}
+
+#photo {
+  width: 300px;
+  height: 300px;
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  padding: 20px;
+  margin-left: 20px;
+}
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+
+.card-container {
+  padding: 26px;
+}
+
+.login-card,
+.signup-card,
+.addPets-card {
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  background-color: #f3ebeb;
+  padding: 80px;
+}
+
+.search-form {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+#search {
+  border-radius: 12px;
+  height: 50px;
+  align-items: center;
+  padding-left: 10px;
+  margin-left: 12px;
+}
+
+
+label,
+input {
+  width: 50%;
+}
+
+.signup-form,
+.login-form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.addPets-form{
+  text-transform: capitalize;
+  display: flex;
+  gap: 30px;
+}
+.section-form{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+#btn {
+  background-color: rgb(9, 180, 189);
+  width: 200px;
+}
+
+a:link {
+  color: black;
+  text-decoration: none;
+
+}
+
+a:hover {
+  color: gray;
+}
+
+#paragraph {
+  width: 300px;
+}
+
+button {
+  border: none;
+}
+
+#btnAddPets{
+
+  width: 100%;
+  margin-top: 50px;
+  background-color: rgb(9, 180, 189);
+
+}
   
