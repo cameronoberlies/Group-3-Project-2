@@ -1,5 +1,5 @@
 const router = require('express').Router();
-const { Pets, User } = require('../models');
+const { Pets, User, userFavorites } = require('../models');
 
 
 router.get('/home', async (req, res) => {
@@ -62,10 +62,10 @@ router.get('/pet/:id', async (req, res) => {
 // si
 
 router.get('/signup', (req, res) => {
-  if (req.session.loggedIn) {
-    res.redirect('/');
-    return;
-  }
+  // if (req.session.loggedIn) {
+  //   res.redirect('/');
+  //   return;
+  // }
   // renders the signup handlebars
   res.render('signup',);
 });
@@ -81,14 +81,27 @@ router.get('/contactus', (req, res) => {
 
 // TODO create a favorites POST, add to database using a is_favorites field, alt: add a fav field to user database/table. add all of pet_id in a comma seperated value - applies to voluterr.js as well 
 
-router.get('/favorites', (req, res) => {
+router.get('/favorites', async (req, res) => {
   // TODO create a GET all pets is_favorites to true send to page
   if (!req.session.loggedIn) {
     res.redirect('/');
     return;
   }
   // renders the favorites handlebars
-  res.render('favorites', {loggedIn: req.session.loggedIn});
+  try {
+    const favoriteData = await Pets.findAll({through:{where:{user_id: req.session.user_id}}})
+    const favorites = favoriteData.map((favorite) => favorite.get({plain: true}))
+    console.log('Success!')
+    res.render('favorites', {favorites})
+  } catch (err) {
+    console.log(err);
+    res.status(400).json(err);
+  }
+
+});
+
+router.post('/favorites', async (req,res) => {
+
 });
 
 router.get('/volunteer', (req, res) => {
@@ -127,13 +140,13 @@ var cookieParser = require('cookie-parser')
 var app = express()
 //app.use(cookieParser())
 
-app.get('/', function (req, res) {
+//app.get('/', function (req, res) {
   // Cookies that have not been signed
-  console.log('Cookies: ', req.cookies)
+  //console.log('Cookies: ', req.cookies)
 
   // Cookies that have been signed
-  console.log('Signed Cookies: ', req.signedCookies)
-})
+  //console.log('Signed Cookies: ', req.signedCookies)
+//})
 
 app.listen(8080)
 //cookies
