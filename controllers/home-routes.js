@@ -190,6 +190,15 @@ router.get('/', (req, res) => {
   res.render('login');
 });
 
+router.get('/addPets', (req, res) => {
+  if (!req.session.loggedIn) {
+    res.redirect('/');
+    return;
+  }
+  // renders the volunteer handlebars
+  res.render('addPets', {loggedIn: req.session.loggedIn});
+});
+
 //cookies
 var express = require('express')
 var cookieParser = require('cookie-parser')
