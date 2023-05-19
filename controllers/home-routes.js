@@ -81,22 +81,6 @@ router.get("/search/:search", async (req, res) => {
 router.get('/pet/:id', async (req, res) => {
   try {
     const dbPetData = await Pets.findByPk(req.params.id);
-    // include: [
-    //   {
-    //     model: Pets,
-    //     attributes: [
-    //       'id',
-    //       'pet_name',
-    //       'pet_age',
-    //       'species',
-    //       'breed',
-    //       'gender',
-    //       'arrival_date',
-    //       'current_date',
-    //       'photo_url'
-    //     ],
-    //   },
-    // ],
 
 
     if (dbPetData === null) {
@@ -119,11 +103,7 @@ router.get('/pet/:id', async (req, res) => {
 // si
 
 router.get('/signup', (req, res) => {
-  // if (req.session.loggedIn) {
-  //   res.redirect('/');
-  //   return;
-  // }
-  // renders the signup handlebars
+
   res.render('signup',);
 });
 
@@ -136,7 +116,16 @@ router.get('/contactus', (req, res) => {
   res.render('contactus', {loggedIn: req.session.loggedIn});
 });
 
-// TODO create a favorites POST, add to database using a is_favorites field, alt: add a fav field to user database/table. add all of pet_id in a comma seperated value - applies to voluterr.js as well 
+router.post("/contactus", Auth,async (req, res, next) => {
+  const { yourname, youremail, yoursubject, yourmessage } = req.body;
+  try {
+    await mainMail(yourname, youremail, yoursubject, yourmessage);
+    
+    res.send("Message Successfully Sent!");
+  } catch (error) {
+    res.send("Message Could not be Sent");
+  }
+});
 
 router.get('/favorites', Auth, async (req, res) => {
   // TODO create a GET all pets is_favorites to true send to page
