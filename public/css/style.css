@@ -18,6 +18,26 @@
     justify-content: flex-start;
     background-color: var(--quatrinary);
   }
+  .card-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .content-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .card-img-details {
+    width: 200px; 
+    height: auto; 
+    margin-right: 20px; 
+  }
+  
+  .text-content {
+    flex: 1;
+  }
+  
 
   .main-title {
     justify-content: center;
@@ -201,11 +221,9 @@
   width: 350px;
 }
 
-.card-img-details {
-  height: 350px;
-  width: 350px;
 
-}
+
+
 /*Abel CSS start*/
 
 .header {
