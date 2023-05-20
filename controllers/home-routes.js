@@ -163,15 +163,6 @@ router.get('/volunteer', (req, res) => {
   res.render('volunteer', {loggedIn: req.session.loggedIn});
 });
 
-router.get('/foster', (req, res) => {
-  if (!req.session.loggedIn) {
-    res.redirect('/');
-    return;
-  }
-  // renders the foster handlebars
-  res.render('foster', {loggedIn: req.session.loggedIn});
-});
-
 // Login route
 router.get('/', (req, res) => {
   // If the user is already logged in, redirect to the homepage

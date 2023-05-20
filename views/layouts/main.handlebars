@@ -21,8 +21,10 @@
 <body>
   
     <header>
+      <div class="logo-img-div">
     <img src = "/images/Logo.jpg" alt = "Logo" class = "logo-img"></img>
-    <h1 class = "main-title">Adopt Today!</h1>
+    </div>
+    {{!-- <h1 class = "main-title">Adopt Today!</h1> --}}
     
     <!-- If the user is logged in, show a logout button -->
     {{#if loggedIn}}
@@ -52,10 +54,7 @@
       <a href="/volunteer">Volunteer</a>
     </button>
     <button class="btn-no-style">
-      <a href="/foster">Foster</a>
-    </button>
-    <button class="btn-no-style">
-      <a href="/contactus">Contact Us</a>
+      <a href="/contactus">Contact Us/Foster a Pet</a>
     </button>
     <button class ="btn-no-style">
       <a href="/addPets">Add a Pet</a>
