@@ -46,7 +46,7 @@ router.post("/addPets", async (req, res) => {
 
 })
 
-router.get("/search/:search", async (req, res) => {
+router.get("/search/:search", Auth, async (req, res) => {
 
   const query = req.params.search.toLowerCase()
 
