@@ -129,8 +129,7 @@ router.post("/contactus", Auth,async (req, res, next) => {
 
 router.get('/favorites', Auth, async (req, res) => {
   // TODO create a GET all pets is_favorites to true send to page
-  
-  
+ 
   // renders the favorites handlebars
   try {
     const favoriteData = await User.findByPk(req.session.user_id, {

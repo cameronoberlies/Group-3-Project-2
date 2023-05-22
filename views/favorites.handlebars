@@ -1,16 +1,13 @@
 <div class='favorites-row'>
-  <h1 style = "text-align: center;">Favorites</h1>
+  <h1 style = "text-align: center; margin-top: 20px;">Favorites</h1>
 
-  <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center;">
 
     {{#each favorites.pets as |favorite|}}
       <div class="card" style="width: 21rem; margin-bottom: 20px;">
         <div class="card-body">
           <p>{{favorite.pet_name}}</p>
-           <a href="/pet/{{pet.id}}"><img
-          class="card-img-favorites"
-          src="{{photo_url}}"
-        /></a>
+           <img href=  "/pet/{{pet.id}}" class ="card-img-favorites" src = "{{photo_url}}">
         </div>
       </div>
     {{/each}}
@@ -19,3 +16,4 @@
 </div>
 
 <script src="/js/favorites.js"></script>
+
