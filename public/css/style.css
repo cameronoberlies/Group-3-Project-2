@@ -388,4 +388,8 @@ button {
   display: flex;
   justify-content: center;
 }
+
+.search-fav-btn {
+  margin-bottom: 0;
+}
   
