@@ -52,6 +52,9 @@
   a:visited {
     color: inherit;
   }
+  .favorites-row {
+
+    }
   
   header {
     padding: 40px;
@@ -231,6 +234,10 @@
   width: 350px;
 }
 
+.card-img-favorites {
+  height: 80%;
+  width: 100%;
+}
 /*Abel CSS start*/
 
 .header {
