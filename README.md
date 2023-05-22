@@ -4,9 +4,9 @@
 
 
 
-![1](screenshots/1.PNG)
-![2](screenshots/2.PNG)
-![3](screenshots/3.PNG)
+![1](screenshots/screenshot_login.png)
+![2](screenshots/screenshot_gallery.png)
+![3](screenshots/screenshot_details.png)
 
 Pet adoption app that displays all available pets for adoption. User can generate favorites through button click. 
 Users can volunteer at the shelter using fullcalendar. Contact us form. Add a new pet functionality. 
