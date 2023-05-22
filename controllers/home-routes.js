@@ -56,11 +56,12 @@ router.get("/search/:search", Auth, async (req, res) => {
 
       const allpets = await Pets.findAll()
       const result = allpets.filter(
-        obj => obj.pet_name.toLowerCase().includes(query)
-          || obj.breed.toLowerCase().includes(query)
-          || obj.gender.toLowerCase().includes(query)
-          || obj.species.toLowerCase().includes(query)
-          || obj.pet_age.toLowerCase().includes(query)
+         obj => //obj.pet_name.toLowerCase().includes(query)
+        //   || obj.breed.toLowerCase().includes(query)
+        //   || obj.gender.toLowerCase().includes(query)
+        //   || obj.species.toLowerCase().includes(query)
+        //   || obj.pet_age.toLowerCase().includes(query)
+          JSON.stringify(obj).toLowerCase().indexOf(query.toLowerCase()) !== -1
       );
       const searchedpets = result.map((pet) =>
         pet.get({ plain: true })
