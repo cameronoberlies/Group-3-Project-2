@@ -142,7 +142,7 @@ router.get('/favorites', Auth, async (req, res) => {
     })
     const favorites = favoriteData.get({plain: true})
     console.log(favorites)
-    res.render('favorites', {favorites})
+    res.render('favorites', {favorites, loggedIn: req.session.loggedIn});
   } catch (err) {
     console.log(err);
     res.status(400).json(err);
