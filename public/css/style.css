@@ -187,12 +187,12 @@
     border-radius: calc(0.18rem - 1px) calc(0.18rem - 1px) 0 0;
   }
   
-  .card-body {
+  /* .card-body {
     font-size: 1.4rem;
     text-align: center;
     font-weight: bold;
     height: fit-content;
-  }
+  } */
   
   .gallery-name {
     text-transform: uppercase;
