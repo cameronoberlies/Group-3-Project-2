@@ -1,9 +1,21 @@
-<div>
-<h1> All Previous Favorited Pets:</h1>
-{{#each favorites.pets as | favorite |}}
-<p>Name: {{favorite.pet_name}}</p>
-{{/each}}
+<div class='favorites-row'>
+  <h1 style = "text-align: center;">Favorites</h1>
 
+  <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
 
+    {{#each favorites.pets as |favorite|}}
+      <div class="card" style="width: 21rem; margin-bottom: 20px;">
+        <div class="card-body">
+          <p>{{favorite.pet_name}}</p>
+           <a href="/pet/{{pet.id}}"><img
+          class="card-img-favorites"
+          src="{{photo_url}}"
+        /></a>
+        </div>
+      </div>
+    {{/each}}
+
+  </div>
 </div>
+
 <script src="/js/favorites.js"></script>
