@@ -93,7 +93,7 @@ router.get('/pet/:id', async (req, res) => {
     // lets log to the console what petData actually looks like
     console.log('------- petData is', petData);
     res.render('pet-details', {
-      ...petData,
+      ...petData, loggedIn: req.session.loggedIn
     });
   } catch (err) {
     console.log(err);
