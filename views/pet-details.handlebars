@@ -1,20 +1,24 @@
+<div class="card">
+     <h3 class="pet-species-display">{{pet_name}}</h3>
+  <div class="card-container">
+   
+    <div class="content-container">
+      <a href="/pet/{{pet.id}}"><img
+          class="card-img-details"
+          src="{{photo_url}}"
+        /></a>
+      <div class="text-content">
+        <ul class="card-text" style="list-style-type: disc; padding: 0;">
+          <li><span style = 'color:blue'>Age: </span>{{pet_age}}</li>
 
-    <div class="card">
-        <div class="card-container">
-            <h3 class="pet-species-display">{{pet_name}}</h3>
-            <a href="/pet/{{pet.id}}"><img class="card-img-details" src="{{photo_url}}" /></a>
-             <div class="card" style="width: 35rem; text-align: center;">
-                <div class="card-body">
-            <ul class="card-text" style="list-style-type: none; padding: 0;">
-                <li>{{pet_age}}</li>
-                <li>{{breed}}</li>
-                <li>{{gender}}</li>
-                <li>Arrived: {{format_date arrival_date}}</li>
-                <li>Without a home for: <br> {{duration arrival_date}} days</li>
-                <li>About the pet: {{description}}</li>
-            </ul>
-            </div>
-            </div>
-        </div>
+          <li><span style = 'color:blue'>Breed: </span><a href = "https://en.wikipedia.org/wiki/{{breed}}">{{breed}}</a></li>
+
+          <li><span style = 'color:blue'>Gender: </span>{{gender}}</li>
+          <li><span style = 'color:blue'>Arrived: </span> {{format_date arrival_date}}</li>
+          <li><span style = 'color:blue'>Without a home for:  </span> {{duration arrival_date}} days</li>
+          <li><span style = 'color:blue'>About the pet: </span> {{description}}</li>
+        </ul>
+      </div>
     </div>
-
+  </div>
+</div>

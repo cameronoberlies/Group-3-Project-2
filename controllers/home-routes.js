@@ -1,5 +1,5 @@
 const router = require('express').Router();
-const { Pets, User, userFavorites } = require('../models');
+const { Pets, User, userFavorites, Calendar } = require('../models');
 const Auth = require('../utils/auth');
 
 
@@ -46,7 +46,7 @@ router.post("/addPets", async (req, res) => {
 
 })
 
-router.get("/search/:search", async (req, res) => {
+router.get("/search/:search", Auth, async (req, res) => {
 
   const query = req.params.search.toLowerCase()
 
@@ -56,11 +56,12 @@ router.get("/search/:search", async (req, res) => {
 
       const allpets = await Pets.findAll()
       const result = allpets.filter(
-        obj => obj.pet_name.toLowerCase().includes(query)
-          || obj.breed.toLowerCase().includes(query)
-          || obj.gender.toLowerCase().includes(query)
-          || obj.species.toLowerCase().includes(query)
-          || obj.pet_age.toLowerCase().includes(query)
+         obj => //obj.pet_name.toLowerCase().includes(query)
+        //   || obj.breed.toLowerCase().includes(query)
+        //   || obj.gender.toLowerCase().includes(query)
+        //   || obj.species.toLowerCase().includes(query)
+        //   || obj.pet_age.toLowerCase().includes(query)
+          JSON.stringify(obj).toLowerCase().indexOf(query.toLowerCase()) !== -1
       );
       const searchedpets = result.map((pet) =>
         pet.get({ plain: true })
@@ -81,22 +82,6 @@ router.get("/search/:search", async (req, res) => {
 router.get('/pet/:id', async (req, res) => {
   try {
     const dbPetData = await Pets.findByPk(req.params.id);
-    // include: [
-    //   {
-    //     model: Pets,
-    //     attributes: [
-    //       'id',
-    //       'pet_name',
-    //       'pet_age',
-    //       'species',
-    //       'breed',
-    //       'gender',
-    //       'arrival_date',
-    //       'current_date',
-    //       'photo_url'
-    //     ],
-    //   },
-    // ],
 
 
     if (dbPetData === null) {
@@ -108,7 +93,7 @@ router.get('/pet/:id', async (req, res) => {
     // lets log to the console what petData actually looks like
     console.log('------- petData is', petData);
     res.render('pet-details', {
-      ...petData,
+      ...petData, loggedIn: req.session.loggedIn
     });
   } catch (err) {
     console.log(err);
@@ -119,11 +104,7 @@ router.get('/pet/:id', async (req, res) => {
 // si
 
 router.get('/signup', (req, res) => {
-  // if (req.session.loggedIn) {
-  //   res.redirect('/');
-  //   return;
-  // }
-  // renders the signup handlebars
+
   res.render('signup',);
 });
 
@@ -136,20 +117,32 @@ router.get('/contactus', (req, res) => {
   res.render('contactus', {loggedIn: req.session.loggedIn});
 });
 
-// TODO create a favorites POST, add to database using a is_favorites field, alt: add a fav field to user database/table. add all of pet_id in a comma seperated value - applies to voluterr.js as well 
-
-router.get('/favorites', async (req, res) => {
-  // TODO create a GET all pets is_favorites to true send to page
-  if (!req.session.loggedIn) {
-    res.redirect('/');
-    return;
+router.post("/contactus", Auth,async (req, res, next) => {
+  const { yourname, youremail, yoursubject, yourmessage } = req.body;
+  try {
+    await mainMail(yourname, youremail, yoursubject, yourmessage);
+    
+    res.send("Message Successfully Sent!");
+  } catch (error) {
+    res.send("Message Could not be Sent");
   }
+});
+
+router.get('/favorites', Auth, async (req, res) => {
+  // TODO create a GET all pets is_favorites to true send to page
+ 
   // renders the favorites handlebars
   try {
-    const favoriteData = await Pets.findAll({through:{where:{user_id: req.session.user_id}}})
-    const favorites = favoriteData.map((favorite) => favorite.get({plain: true}))
-    console.log('Success!')
-    res.render('favorites', {favorites})
+    const favoriteData = await User.findByPk(req.session.user_id, {
+      include: [
+        {
+          model:Pets, through:userFavorites
+        }
+      ]
+    })
+    const favorites = favoriteData.get({plain: true})
+    console.log(favorites)
+    res.render('favorites', {favorites, loggedIn: req.session.loggedIn});
   } catch (err) {
     console.log(err);
     res.status(400).json(err);
@@ -168,15 +161,6 @@ router.get('/volunteer', (req, res) => {
   }
   // renders the volunteer handlebars
   res.render('volunteer', {loggedIn: req.session.loggedIn});
-});
-
-router.get('/foster', (req, res) => {
-  if (!req.session.loggedIn) {
-    res.redirect('/');
-    return;
-  }
-  // renders the foster handlebars
-  res.render('foster', {loggedIn: req.session.loggedIn});
 });
 
 // Login route

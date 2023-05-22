@@ -1,17 +1,23 @@
-<div class="column">
+<div class='favorites-row'>
+ 
 
-  <div class="container">
-    {{#each searchedpets as |pet| }}
-    <div class="card">
-      <div class="card-container">
-        <h2>{{pet.pet_name}}</h2>
-        <p>{{pet.breed}}</p>
-        <a href="/pet/{{pet.id}}"> <img src="{{ pet.photo_url}}" id="photo" /> </a>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center;">
+
+    {{#each searchedpets as |pet|}}
+      <div class="card" style="width: 21rem; margin-bottom: 20px;">
+        <div class="card-body">
+          
+           <a href="/pet/{{pet.id}}">
+            <img class="card-img-top" src="{{pet.photo_url}}" />
+          </a>
+          <h1 class = "text-primary">{{pet.pet_name}}</h1>
+          <p class="card-text">{{pet.breed}}</p>
+        </div>
+        <button onclick="addToFav(event)" type="button" class="btn btn-outline-primary search-fav-btn;" value = {{pet.id}}><i class="bi bi-heart"></i> Add to Favorites</button>
       </div>
-    </div>
     {{/each}}
-  </div>
 
+  </div>
 </div>
 
 <script src="/js/search.js"></script>

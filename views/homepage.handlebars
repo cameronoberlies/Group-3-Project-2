@@ -1,8 +1,8 @@
 <div class="container" >
    <form class="form search-form">
 
-    <input placeholder="search pets" id="search">
-    <button class="btn btn-primary" type="submit" id="searchbtn">search</button>
+    <input placeholder="search adoptable pets" id="search">
+    <button class="btn btn-primary" type="submit" id="searchbtn">Search</button>
 
   </form>
   <div class="row" style="display: flex; justify-content: center; align-items: center; height: 100vh; width: 100vw;">
@@ -15,7 +15,7 @@
           </a>
           <h1 class = "text-primary">{{pet.pet_name}}</h1>
           <p class="card-text">{{pet.breed}}</p>
-          <button type="button" class="btn btn-outline-primary" value = {{pet.id}} id="favorite-btn"><i class="bi bi-heart"></i> Add to Favorites</button>
+          <button onclick="addToFav(event)" type="button" class="btn btn-outline-primary" value = {{pet.id}}><i class="bi bi-heart"></i> Add to Favorites</button>
         </div>
       </div>
     </div>
