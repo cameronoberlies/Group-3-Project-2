@@ -1,5 +1,4 @@
-# Group-3-Project-2
-
+# Paws Claws and Tails
 
 
 
@@ -15,7 +14,7 @@ Technologies used Node JS, Express JS.,
 Handlebars, Bootstrap, Bcrypt, cookie parser, fullcalendar,       
 mysql2, sequelize, dotenv.
 Contributors: James Pierce, Abel Zemo, Valerie, Guerra, Sophia Perez, Cameron Oberlies
-github link: https://github.com/cameronoberlies/Group-3-Project-2.git
+github link: https://github.com/cameronoberlies/Paws-Claws-and-Tails.git
 contact james59222@gmail.com for any questions or concerns.
 Testing done through self testing and debugging using console.
 Heroku: https://paws-claws-and-tails.herokuapp.com/home
