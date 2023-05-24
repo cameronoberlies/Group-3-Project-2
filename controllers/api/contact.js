@@ -20,9 +20,8 @@ console.log(email)
     from: process.env.GMAIL_USER,
     to: process.env.EMAIL,
     subject: email.subject,
-    html: `You got a message from 
-    Email : ${email.email}
-    Name: ${email.name}
+    html: `You got a message from ${email.name}
+     ${email.email}
     Message: ${email.message}`,
   };
   try {
